@@ -38,7 +38,7 @@ Leverage elements of game principles and design in non-game contexts to encourag
 
 Create a business plan outlining a vision for a company which can tackle a specific societal problem by submission time day 2.
 
-### Some context on Allotrac
+## Some context on Allotrac
 
 Allotrac is a cloud-based transport management software designed for the logistics and transportation industry. It offers a range of features to streamline operations, enhance visibility, and optimize efficiency in managing fleets, drivers, jobs, and compliance requirements. Some of the key features typically associated with Allotrac include:
 
