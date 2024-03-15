@@ -2,6 +2,10 @@
 
 Welcome to the Allotrac Dataset Repository for the 2024 UOW Hackathon! This repository contains an example dataset provided by Allotrac Pty Ltd for use during the hackathon event. Participants are encouraged to utilize this dataset for experimentation and development of their projects.
 
+## API Developer Guide
+
+For documentation on how to use the Allotrac.io GraphQL API [click here](https://jodatechnology.atlassian.net/wiki/external/ODUxYmFjZGExNTQ0NGUwYzhkOGFlMTdiMDUyOTBjYjk)
+
 ## Dataset Overview
 
 The dataset is structured into several CSV files, organized within the `csv-dataset` folder. Each CSV file contains specific data relevant to Allotrac's operations. Here is a list of the files available in the dataset:
