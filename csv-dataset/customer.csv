@@ -1,0 +1,1716 @@
+ID,Enabled,CompanyHomeLocationID,Deleted,isClient,isSupplier,isCustomer,Account
+1,1,,0,1,1,1,Manning Group
+2,1,-1,1,1,1,1,Martinez PLC
+3,1,-1,0,1,1,1,Henderson PLC
+4,1,-1,0,1,1,1,"Price, Morrow and Stewart"
+5,1,-1,0,1,1,1,Sanders LLC
+6,1,-1,0,1,1,1,Lopez-Payne
+7,1,-1,0,1,1,1,Spears Inc
+8,1,-1,0,1,1,1,Johnson-Glenn
+9,1,-1,0,1,1,1,Williams Inc
+10,1,-1,0,1,1,1,"Beasley, Lindsey and Wyatt"
+11,1,-1,0,1,1,1,Williams LLC
+12,1,-1,0,1,1,1,Dawson-Watts
+13,1,-1,0,1,1,1,Guzman-Hardy
+14,1,-1,0,1,1,1,Fleming-Ferguson
+15,1,-1,0,1,1,1,Cain PLC
+16,1,-1,0,1,1,1,Scott-Sanders
+17,1,-1,0,1,1,1,Taylor-Ramirez
+18,1,-1,0,1,1,1,Lawson LLC
+19,1,-1,0,1,1,1,Harvey-Williams
+20,1,-1,0,1,1,1,Smith PLC
+21,1,-1,0,1,1,1,Williams LLC
+22,1,-1,0,1,1,1,Mcdaniel LLC
+23,1,-1,0,1,1,1,Dodson and Sons
+24,1,-1,0,1,1,1,Obrien Group
+25,1,-1,0,1,1,1,Jacobs-Savage
+26,1,-1,0,1,1,1,White-Dawson
+27,1,-1,0,1,1,1,"Davis, Berry and Leach"
+28,1,-1,0,1,1,1,"Chandler, Howard and Johnston"
+29,1,-1,0,1,1,1,Cabrera Inc
+30,0,-1,0,1,1,1,Yoder PLC
+31,1,-1,0,1,1,1,Marshall-Martinez
+32,1,-1,0,1,1,1,Shea-Bonilla
+33,1,-1,0,1,1,1,"Ashley, Moore and Rodriguez"
+34,1,-1,0,1,1,1,Zamora LLC
+35,1,-1,0,1,1,1,Barron-Nelson
+36,1,-1,1,1,1,1,"Johnson, Carlson and Wade"
+37,1,-1,0,1,1,1,Merritt and Sons
+38,1,-1,1,1,1,1,Burke Group
+39,1,-1,0,1,1,1,Morales Inc
+40,1,-1,0,1,1,1,Trevino Ltd
+41,1,-1,0,1,1,1,Adams-Sanders
+42,1,-1,0,1,1,1,Randall Ltd
+43,1,-1,0,1,1,1,"Jones, Soto and Williams"
+44,1,-1,0,1,1,1,Wilson-Price
+45,1,-1,0,1,1,1,"Rice, Mejia and Williams"
+46,1,-1,0,1,1,1,Allen-Williams
+47,1,-1,0,1,1,1,"Mendoza, Mercer and Strickland"
+48,1,-1,0,1,1,1,Wells PLC
+49,1,-1,0,1,1,1,"Mathis, Peterson and Young"
+50,1,-1,1,1,1,1,Rodriguez-Ryan
+51,1,-1,0,1,1,1,Irwin Ltd
+52,1,-1,0,1,1,1,Woods-Strickland
+53,1,-1,0,1,1,1,"Bell, Jackson and Lopez"
+54,0,-1,0,1,1,1,"White, Skinner and Perez"
+55,1,-1,0,1,1,1,Norman-Cervantes
+56,1,-1,0,1,1,1,Williams Inc
+57,1,-1,0,1,1,1,"Stewart, Shaw and Davis"
+58,1,-1,0,1,1,1,Ramirez-Nelson
+59,1,-1,0,1,1,1,Perkins-Roberts
+60,1,-1,1,1,1,1,Cooley LLC
+61,1,-1,0,1,1,1,Rose Inc
+62,1,-1,0,1,1,1,Bradshaw-Buchanan
+63,1,-1,0,1,1,1,Smith and Sons
+64,1,-1,0,1,1,1,Williams Ltd
+65,1,-1,0,1,1,1,Kelley LLC
+66,1,-1,0,1,1,1,Taylor Group
+67,1,-1,0,1,1,1,Ellis-Byrd
+68,1,-1,0,1,1,1,"Hooper, Adams and Lewis"
+69,0,-1,0,1,1,1,"Miranda, Bruce and Gonzalez"
+70,1,-1,0,1,1,1,Lucas LLC
+71,1,-1,0,1,1,1,Turner Group
+72,1,-1,0,1,1,1,Vang-Mcmillan
+73,1,-1,0,1,1,1,Cain-Gonzalez
+74,1,-1,0,1,1,1,"Fitzgerald, Black and Diaz"
+75,1,-1,0,1,1,1,King-Stewart
+76,1,-1,0,1,1,1,"Oliver, Callahan and Vega"
+77,0,-1,0,1,1,1,Torres-Morgan
+78,1,-1,0,1,1,1,Patel Inc
+79,1,-1,0,1,1,1,Atkinson Group
+80,1,-1,0,1,1,1,Kidd-Randolph
+81,1,-1,0,1,1,1,"Rowland, Thompson and Leonard"
+82,1,-1,0,1,1,1,"Williams, Cervantes and Mcgee"
+83,1,-1,0,1,1,1,"Williams, Hughes and Duke"
+84,1,-1,0,1,1,1,Watkins Inc
+85,1,-1,0,1,1,1,Rodriguez and Sons
+86,1,-1,0,1,1,1,Simmons Group
+87,0,-1,0,1,1,1,Wilson-Smith
+88,1,-1,0,1,1,1,Jennings Inc
+89,1,-1,0,1,1,1,Matthews Inc
+90,1,-1,0,1,1,1,Ortiz-Jackson
+91,1,-1,0,1,1,1,"Cunningham, Allen and Mcdonald"
+92,0,-1,0,1,1,1,"Raymond, Sanchez and Marquez"
+93,1,-1,0,1,1,1,Moyer-Hood
+94,1,-1,0,1,1,1,Peters and Sons
+95,1,-1,0,1,1,1,Gonzalez Group
+96,1,-1,0,1,1,1,Welch-Smith
+97,1,-1,0,1,1,1,Garcia-Smith
+98,1,-1,0,1,1,1,"Martin, Boyd and Mercer"
+99,1,-1,1,1,1,1,Conley and Sons
+100,1,-1,1,1,1,1,Chapman-Delgado
+101,1,-1,0,1,1,1,Rodriguez Ltd
+102,1,-1,0,1,1,1,Vargas and Sons
+103,1,-1,0,1,1,1,Smith-Smith
+104,1,-1,0,1,1,1,Johnson LLC
+105,1,-1,0,1,1,1,Villanueva-Wagner
+106,1,-1,0,1,1,1,"Daniels, Lee and Hicks"
+107,1,-1,1,1,1,1,"Browning, Bradley and Bell"
+108,1,-1,1,1,1,1,"Johnson, Rice and Lewis"
+109,1,-1,1,1,1,1,"Thompson, Vance and Benson"
+110,1,-1,1,1,1,1,Lewis-Hogan
+111,0,-1,0,1,1,1,Cunningham Group
+112,1,-1,1,1,1,1,"Lee, Wilson and Smith"
+113,1,-1,0,1,1,1,Riggs Group
+114,1,-1,1,1,1,1,Brown Inc
+115,1,-1,0,1,1,1,"Horne, West and Mendoza"
+116,0,-1,0,1,1,1,Dennis-Dennis
+117,0,-1,0,1,1,1,"Patrick, Donovan and Johnson"
+118,1,-1,0,1,1,1,Kane Group
+119,1,-1,0,1,1,1,Fletcher Group
+120,1,-1,0,1,1,1,Bennett Inc
+121,0,-1,0,0,0,0,"Flores, Alvarado and Woods"
+122,0,-1,0,0,0,0,"Dominguez, Lara and Gibbs"
+123,1,-1,0,1,1,1,Anderson-Gilbert
+124,1,-1,0,1,1,1,Espinoza-Walsh
+125,1,-1,0,1,1,1,Sanders-Edwards
+126,1,-1,0,1,1,1,Bennett-Espinoza
+127,1,-1,0,1,1,1,Mccormick LLC
+128,0,-1,0,1,1,1,Parsons PLC
+129,1,-1,0,1,1,1,"Carter, Cole and Perez"
+130,1,-1,0,1,1,1,Ellis LLC
+131,1,-1,0,1,1,1,Taylor PLC
+132,1,-1,0,1,1,1,Walker-Moore
+133,1,-1,0,1,1,1,Burton Ltd
+134,1,-1,0,1,1,1,Howard-Jimenez
+135,1,-1,0,1,1,1,Hudson Group
+136,1,-1,0,1,1,1,Garrett Group
+137,1,-1,0,1,1,1,Green Ltd
+138,1,-1,0,1,1,1,Lopez and Sons
+139,1,-1,0,1,1,1,"Allen, Fox and Kennedy"
+140,1,-1,0,1,1,1,Lopez-Gutierrez
+141,1,-1,0,1,1,1,"Roy, Butler and Walter"
+142,1,-1,0,1,1,1,Jones-Ford
+143,1,-1,0,1,1,1,Berry and Sons
+144,1,-1,0,1,1,1,"White, Newman and Foster"
+145,1,-1,0,1,1,1,Smith-Gibbs
+146,1,-1,0,1,1,1,Lewis PLC
+147,1,-1,0,1,1,1,Herrera-Rogers
+148,1,-1,0,1,1,1,"Jordan, Kramer and Patterson"
+149,1,-1,0,1,1,1,Wilson-Mclaughlin
+150,0,-1,0,1,1,1,Rios Inc
+151,0,-1,0,1,1,1,Smith-Smith
+152,0,-1,0,1,1,1,Miller LLC
+153,0,-1,0,1,1,1,Nichols Group
+154,1,-1,0,1,1,1,Sims PLC
+155,1,-1,0,1,1,1,Gray-Jackson
+156,1,-1,0,1,1,1,"Kemp, Aguilar and Dudley"
+157,1,-1,0,1,1,1,Brown-Jones
+158,1,-1,0,1,1,1,Morris-Martin
+159,1,-1,0,1,1,1,Mann-Griffin
+160,1,-1,0,1,1,1,Smith-Byrd
+161,1,-1,0,1,1,1,Weber-Petty
+162,1,-1,0,1,1,1,"Guerra, Kelly and Carter"
+163,1,-1,0,1,1,1,"Snyder, Vaughn and Cortez"
+164,1,-1,0,1,1,1,Bush Inc
+165,1,-1,0,1,1,1,"Martinez, Day and Gutierrez"
+166,1,-1,0,1,1,1,Richards-Rocha
+167,1,-1,0,1,1,1,James-Nguyen
+168,1,-1,0,1,1,1,"Taylor, King and Rose"
+169,1,-1,0,1,1,1,Gray PLC
+170,1,-1,0,1,1,1,Franco-Harris
+171,1,-1,0,1,1,1,Freeman-Sellers
+172,1,-1,0,1,1,1,Davis LLC
+173,1,-1,0,1,1,1,Barnes-Robinson
+174,1,-1,0,1,1,1,Walker-Ferguson
+175,1,-1,0,1,1,1,"Rios, Johnson and Hughes"
+176,1,-1,0,1,1,1,Watson Inc
+177,1,-1,0,1,1,1,Knox-Smith
+178,1,-1,0,1,1,1,Griffith-Holland
+179,1,-1,0,1,1,1,Gay-Moore
+180,1,-1,0,1,1,1,Keith Inc
+181,1,-1,0,1,1,1,"Rodriguez, Alvarez and Elliott"
+182,1,-1,0,1,1,1,Tran Inc
+183,1,-1,0,1,1,1,Mcdaniel Ltd
+184,1,-1,0,1,1,1,"Schroeder, Gross and Marsh"
+185,1,-1,0,1,1,1,"Martinez, Watts and Mendez"
+186,1,-1,0,1,1,1,"Mcguire, Lee and Phillips"
+187,0,-1,0,1,1,1,"Stewart, Briggs and Keith"
+188,1,-1,0,1,1,1,Pearson Ltd
+189,1,-1,0,1,1,1,Owens PLC
+190,1,-1,0,1,1,1,"Clark, Morgan and Brown"
+191,1,-1,0,1,1,1,Beard LLC
+192,1,-1,0,1,1,1,"Wang, Anderson and Wilson"
+193,1,-1,0,1,1,1,Lloyd Ltd
+194,1,-1,0,1,1,1,"Butler, Holloway and Stewart"
+195,1,-1,0,1,1,1,Chan PLC
+196,1,-1,0,1,1,1,Simmons and Sons
+197,1,-1,0,1,1,1,Walker-Solis
+198,1,-1,0,1,1,1,Huang-Frank
+199,1,-1,0,1,1,1,Glover-Hamilton
+200,1,-1,0,1,1,1,Alvarez-King
+201,1,-1,0,1,1,1,George-Singh
+202,1,-1,0,1,1,1,Pope Ltd
+203,1,-1,0,1,1,1,Andrews Ltd
+204,1,-1,0,1,1,1,Rodgers-Walker
+205,1,-1,0,1,1,1,Alvarez PLC
+206,1,-1,0,1,1,1,"Sanchez, Lewis and Campbell"
+207,1,-1,0,1,1,1,Sullivan-Bartlett
+208,1,-1,0,1,1,1,"Hunt, Strickland and Johnson"
+209,1,-1,0,1,1,1,"Medina, Brown and Landry"
+210,1,-1,0,1,1,1,"Moreno, Castro and Fleming"
+211,1,-1,0,1,1,1,Mcclure-Brown
+212,1,-1,0,1,1,1,Thompson Group
+213,1,-1,0,1,1,1,"Robbins, Reynolds and Marquez"
+214,1,-1,0,1,1,1,"Rowland, Scott and Perry"
+215,1,-1,0,1,1,1,Cain and Sons
+216,1,-1,0,1,1,1,Hamilton-Castro
+217,1,-1,0,1,1,1,Mcdonald Group
+218,1,-1,0,1,1,1,"Oconnor, Matthews and Scott"
+219,1,-1,0,1,1,1,"Jackson, Reed and Petty"
+220,1,-1,0,1,1,1,Cox-Brown
+221,1,-1,0,1,1,1,Meyers-Taylor
+222,1,-1,0,1,1,1,Parker-Williams
+223,1,-1,0,1,1,1,Williams LLC
+224,1,-1,0,1,1,1,Johnson-Turner
+225,1,-1,0,1,1,1,"Reid, Mendoza and Ward"
+226,1,-1,0,1,1,1,Colon Inc
+227,1,-1,0,1,1,1,Espinoza-Parker
+228,1,-1,0,1,1,1,Meyers Ltd
+229,1,-1,0,1,1,1,Wilson-Robertson
+230,1,-1,0,1,1,1,Collins-Cobb
+231,1,-1,0,1,1,1,Taylor Group
+232,1,-1,0,1,1,1,"Griffin, Mcgee and Dougherty"
+233,1,-1,0,1,1,1,Hernandez-Little
+234,1,-1,0,1,1,1,Mccoy-Mccormick
+235,1,-1,0,1,1,1,Rich Inc
+236,1,-1,0,1,1,1,"Lindsey, Russell and Fuentes"
+237,1,-1,0,1,1,1,Rodriguez-Massey
+238,1,-1,0,1,1,1,"Brown, Berry and Hanson"
+239,1,-1,0,1,1,1,Perry-Bennett
+240,0,-1,0,1,1,1,Singh and Sons
+241,1,-1,0,1,1,1,Hill-Osborne
+242,1,-1,0,1,1,1,Barber Inc
+243,1,-1,0,1,1,1,Cox Group
+244,1,-1,0,1,1,1,"King, Shaw and Wu"
+245,1,-1,0,1,1,1,Patel Inc
+246,1,-1,0,1,1,1,Brown-Jones
+247,1,-1,0,1,1,1,Jones-Henson
+248,1,-1,0,1,1,1,Blair-Larson
+249,1,-1,0,1,1,1,"Meyer, Anderson and Yoder"
+250,1,-1,0,1,1,1,Martinez LLC
+251,1,-1,0,1,1,1,Smith-Roy
+252,1,-1,0,1,1,1,Lopez Ltd
+253,1,-1,0,1,1,1,Davis-Owens
+254,1,-1,0,1,1,1,"Williams, Bennett and Smith"
+255,1,-1,0,1,1,1,Ramirez PLC
+256,1,-1,0,1,1,1,"Perkins, Morgan and Gamble"
+257,1,-1,0,1,1,1,Watson Group
+258,1,-1,0,1,1,1,Alvarado-Griffith
+259,1,-1,0,1,1,1,Walker-Mejia
+260,1,-1,0,1,1,1,"Foster, Garza and Wilson"
+261,1,-1,0,1,1,1,Aguilar Inc
+262,1,-1,0,1,1,1,Hansen-Stephens
+263,1,-1,0,1,1,1,"Lee, Bass and Rivas"
+264,1,-1,0,1,1,1,Wade-Cooley
+265,1,-1,0,1,1,1,"Cooley, Larson and Hardy"
+266,1,-1,0,1,1,1,Jones-Price
+267,1,-1,0,1,1,1,"Rivas, Boyd and Miller"
+268,1,-1,0,1,1,1,White-Sanders
+269,1,-1,0,1,1,1,Deleon-Leonard
+270,1,-1,0,1,1,1,"Meza, Ramos and Mitchell"
+271,1,-1,0,1,1,1,Walters Inc
+272,1,-1,0,1,1,1,Diaz Group
+273,1,-1,0,1,1,1,Stevenson-Quinn
+274,1,-1,0,1,1,1,Simmons Ltd
+275,1,-1,0,1,1,1,Tapia-Cain
+276,1,-1,0,1,1,1,Lopez-Potts
+277,1,-1,0,1,1,1,Adams Inc
+278,1,-1,0,1,1,1,Robinson Inc
+279,1,-1,0,1,1,1,Holland LLC
+280,1,-1,0,1,1,1,Chapman-Stevens
+281,1,-1,0,1,1,1,Hernandez-Calderon
+282,1,-1,0,1,1,1,Newton-Williams
+283,1,-1,0,1,1,1,Baker Group
+284,1,-1,0,1,1,1,"Steele, Duncan and Pace"
+285,1,-1,0,1,1,1,"Mooney, Hicks and Gray"
+286,1,-1,0,1,1,1,"Brooks, Williams and Bender"
+287,1,-1,0,1,1,1,Davis-Donaldson
+288,1,-1,0,1,1,1,"Perez, Crawford and Schneider"
+289,1,-1,0,1,1,1,Rodriguez and Sons
+290,1,-1,0,1,1,1,"Holt, Perkins and Choi"
+291,1,-1,0,1,1,1,Hamilton-Brown
+292,1,-1,0,1,1,1,Morrow-Saunders
+293,1,-1,0,1,1,1,"Lopez, Winters and Harris"
+294,1,-1,0,1,1,1,Ball Group
+295,1,-1,0,1,1,1,Johnson Ltd
+296,1,-1,0,1,1,1,Mccarthy and Sons
+297,1,-1,0,1,1,1,Collins-Watts
+298,1,-1,0,1,1,1,Trevino-Walker
+299,1,-1,0,1,1,1,"Robertson, Morton and Bridges"
+300,1,-1,0,1,1,1,Vance Ltd
+301,1,-1,0,1,1,1,"Barron, Henson and Bender"
+302,1,-1,0,1,1,1,"Nichols, Zavala and Sharp"
+303,1,-1,0,1,1,1,Jackson-Goodman
+304,1,-1,0,1,1,1,"Knight, Wilson and Allen"
+305,1,-1,0,1,1,1,"Jennings, Johnson and Johnson"
+306,1,-1,0,1,1,1,Sanchez Group
+307,1,-1,0,1,1,1,Humphrey-Dalton
+308,1,-1,0,1,1,1,"Nguyen, Dawson and Velez"
+309,1,-1,0,1,1,1,Douglas Inc
+310,1,-1,0,1,1,1,"Miller, Evans and Flores"
+311,1,-1,0,1,1,1,Jones-Bright
+312,1,-1,0,1,1,1,Wilson-Tucker
+313,1,-1,0,1,1,1,Cox-Owens
+314,1,-1,0,1,1,1,Shaw-Lawrence
+315,1,-1,0,1,1,1,Santos-Norton
+316,1,-1,0,1,1,1,Parker-Rodriguez
+317,1,-1,0,1,1,1,Smith Inc
+318,1,-1,0,1,1,1,Johnston-Russell
+319,1,-1,0,1,1,1,"Lambert, Rowe and Campbell"
+320,1,-1,0,1,1,1,Alvarez LLC
+321,1,-1,0,1,1,1,Jones-Shah
+322,1,-1,0,1,1,1,Lopez-Wong
+323,1,-1,0,1,1,1,Gill Inc
+324,0,-1,0,1,1,1,Green LLC
+325,0,-1,0,0,0,0,"Mitchell, Moss and Hamilton"
+326,1,-1,0,1,1,1,"Munoz, Williams and Phillips"
+327,1,-1,0,1,1,1,Roberts-Rogers
+328,1,-1,0,1,1,1,"Horton, Wiggins and Stevens"
+329,1,-1,0,1,1,1,Cox Group
+330,1,-1,0,1,1,1,Obrien-Jones
+331,0,-1,0,1,1,1,Everett and Sons
+332,1,-1,0,1,1,1,"Jackson, Rodgers and Watts"
+333,0,-1,0,1,1,1,Henderson LLC
+334,1,-1,0,1,1,1,Gomez LLC
+335,1,-1,0,1,1,1,Gonzalez LLC
+336,1,-1,0,1,1,1,"Griffith, Pierce and Anderson"
+337,1,-1,0,1,1,1,Perez-Brown
+338,1,-1,0,1,1,1,"Ruiz, Davies and Charles"
+339,1,-1,0,1,1,1,Vasquez Ltd
+340,1,-1,0,1,1,1,"Brewer, Garcia and Benjamin"
+341,1,-1,0,1,1,1,"Swanson, Anderson and Douglas"
+342,1,-1,0,1,1,1,"Yoder, Zamora and Reyes"
+343,1,-1,0,1,1,1,"Meyer, Griffin and Lopez"
+344,1,-1,0,1,1,1,Parker-Fitzgerald
+345,1,-1,0,1,1,1,Mccarthy-Young
+346,1,-1,0,1,1,1,Robertson Inc
+347,1,-1,0,1,1,1,White-French
+348,1,-1,0,1,1,1,Hatfield-Kemp
+349,1,-1,0,1,1,1,Ortiz Group
+350,1,-1,0,1,1,1,Mills-Baird
+351,1,-1,0,1,1,1,"Ruiz, Brown and Smith"
+352,0,-1,0,1,1,1,"Alvarez, Thomas and Douglas"
+353,1,-1,0,1,1,1,"Sutton, Flynn and Avery"
+354,1,-1,0,1,1,1,Yoder-Sullivan
+355,1,-1,0,1,1,1,Serrano-Banks
+356,1,-1,0,1,1,1,"Hopkins, Rose and Barnes"
+357,1,-1,0,1,1,1,"Bryant, Arellano and Sullivan"
+358,1,-1,0,1,1,1,Sparks-Wilkerson
+359,1,-1,0,1,1,1,"Horton, Thomas and Hurst"
+360,1,-1,0,1,1,1,Ortiz-Hall
+361,1,-1,0,1,1,1,Riggs and Sons
+362,1,-1,0,1,1,1,"Carroll, Carlson and Torres"
+363,1,-1,0,1,1,1,Curtis-Brooks
+364,1,-1,0,1,1,1,Guzman-Collins
+365,1,-1,0,1,1,1,Thomas-Paul
+366,1,-1,0,1,1,1,Martin PLC
+367,1,-1,0,1,1,1,Butler-Harrington
+368,1,-1,0,1,1,1,"Hayes, Thompson and Mcdowell"
+369,1,-1,0,1,1,1,Tate-Ellis
+370,1,-1,0,1,1,1,Short-Thomas
+371,1,-1,0,1,1,1,Warner Group
+372,1,-1,0,1,1,1,Brown-Romero
+373,1,-1,0,1,1,1,Mcfarland and Sons
+374,1,-1,0,1,1,1,"Simmons, Fisher and Ortiz"
+375,1,-1,0,1,1,1,Zimmerman-Jenkins
+376,1,-1,0,1,1,1,"Evans, Ferguson and Miller"
+377,1,-1,0,1,1,1,"Hernandez, Pena and Woods"
+378,1,-1,0,1,1,1,"Ortiz, Raymond and Frazier"
+379,1,-1,0,1,1,1,"Schmidt, Villegas and Mccormick"
+380,1,-1,0,1,1,1,"White, Coleman and Smith"
+381,1,-1,0,1,1,1,Wilkerson-Anderson
+382,1,-1,0,1,1,1,Torres-White
+383,1,-1,0,1,1,1,"Torres, Bell and Griffin"
+384,1,-1,0,1,1,1,Lin-Walton
+385,1,-1,0,1,1,1,Snyder Group
+386,1,-1,0,1,1,1,"Ramos, Ruiz and Brown"
+387,1,-1,0,1,1,1,"Watson, Odonnell and Wilkerson"
+388,1,-1,0,1,1,1,Barnes Group
+389,1,-1,0,1,1,1,Williams-Bauer
+390,1,-1,0,1,1,1,"Quinn, Young and Skinner"
+391,0,-1,0,1,1,1,Black-Peck
+392,1,-1,0,1,1,1,"Melton, Johns and Vang"
+393,1,-1,0,1,1,1,Mercer-Yu
+394,1,-1,0,1,1,1,"Singleton, Mooney and West"
+395,1,-1,0,1,1,1,Charles and Sons
+396,1,-1,0,1,1,1,Turner LLC
+397,1,-1,0,1,1,1,"Gregory, Floyd and Mccarthy"
+398,1,-1,0,1,1,1,Ross-Wright
+399,1,-1,0,1,1,1,Baker LLC
+400,1,-1,0,1,1,1,"Torres, Barber and Johnson"
+401,1,-1,0,1,1,1,"Gross, Brown and Thompson"
+402,1,-1,0,1,1,1,Avila-Ortiz
+403,1,-1,0,1,1,1,Manning and Sons
+404,1,-1,0,1,1,1,Williams-Soto
+405,1,-1,0,1,1,1,Escobar-Flynn
+406,1,-1,0,1,1,1,Lee-Edwards
+407,1,-1,0,1,1,1,Perez-Phillips
+408,1,-1,0,1,1,1,Small-Medina
+409,1,-1,0,1,1,1,Johnson LLC
+410,1,-1,0,1,1,1,"Montgomery, Acosta and Smith"
+411,1,-1,0,1,1,1,"Rose, Green and Anderson"
+412,1,-1,0,1,1,1,Garcia-Munoz
+413,1,-1,0,1,1,1,Wade-Bird
+414,1,-1,0,1,1,1,Davis-Murphy
+415,1,-1,0,1,1,1,"Garcia, Wang and Wood"
+416,1,-1,0,1,1,1,Gillespie-Macdonald
+417,1,-1,0,1,1,1,Fox Ltd
+418,1,-1,0,1,1,1,Henry Ltd
+419,1,-1,0,1,1,1,"Aguilar, Jackson and Mercer"
+420,1,-1,0,1,1,1,"Lozano, Peck and Smith"
+421,1,-1,0,1,1,1,Johnson LLC
+422,1,-1,0,1,1,1,Jones-Harrell
+423,1,-1,0,1,1,1,Ray LLC
+424,1,-1,0,1,1,1,Reyes-Contreras
+425,1,-1,0,1,1,1,"Horton, Parker and White"
+426,1,-1,0,1,1,1,Berger PLC
+427,1,-1,0,1,1,1,Kelley LLC
+428,1,-1,0,1,1,1,Herring Ltd
+429,1,-1,0,1,1,1,"Jones, Morales and Richardson"
+430,1,-1,0,1,1,1,Moore-Cunningham
+431,1,-1,0,1,1,1,"Sanders, Saunders and Kramer"
+432,1,-1,0,1,1,1,"Brown, Howard and Brock"
+433,1,-1,0,1,1,1,"Edwards, Ruiz and Powell"
+434,1,-1,0,1,1,1,Smith PLC
+435,1,-1,0,1,1,1,Franco and Sons
+436,1,-1,0,1,1,1,"Brooks, Anderson and Moses"
+437,1,-1,0,1,1,1,Stevens-Brown
+438,1,-1,0,1,1,1,"Rodriguez, Osborn and Mccarty"
+439,1,-1,0,1,1,1,Guzman Group
+440,1,-1,0,1,1,1,Valdez-Owens
+441,1,-1,0,1,1,1,Shepard and Sons
+442,1,-1,0,1,1,1,"Carr, Hicks and Gonzalez"
+443,1,-1,0,1,1,1,"Quinn, Pham and Knight"
+444,1,-1,0,1,1,1,Schmidt-Mcmillan
+445,1,-1,0,1,1,1,Dodson and Sons
+446,1,-1,0,1,1,1,Dennis and Sons
+447,1,-1,0,1,1,1,George LLC
+448,1,-1,0,1,1,1,Bond-Williams
+449,1,-1,0,1,1,1,Reyes-Peterson
+450,1,-1,0,1,1,1,Russo PLC
+451,1,-1,0,1,1,1,Reynolds-Hall
+452,1,-1,0,1,1,1,Smith Group
+453,1,-1,0,1,1,1,Smith-Brown
+454,1,-1,0,1,1,1,Buchanan Ltd
+455,1,-1,0,1,1,1,Smith-Martinez
+456,1,-1,0,1,1,1,Johnson-Sanders
+457,1,-1,0,1,1,1,Montoya-Lutz
+458,1,-1,0,1,1,1,"Rojas, Browning and Wright"
+459,1,-1,0,1,1,1,"Woodward, Robertson and Carter"
+460,1,-1,0,1,1,1,"Nguyen, Molina and Ferguson"
+461,1,-1,0,1,1,1,Hamilton and Sons
+462,1,-1,0,1,1,1,Montes-Byrd
+463,1,-1,0,1,1,1,Hill-Mckenzie
+464,1,-1,0,1,1,1,"Anderson, Reynolds and Rios"
+465,1,-1,0,1,1,1,Parker PLC
+466,1,-1,0,1,1,1,"Mcdonald, Black and Williams"
+467,1,-1,0,1,1,1,Hoffman and Sons
+468,1,-1,0,1,1,1,"Stevens, Mosley and Dawson"
+469,1,-1,0,1,1,1,"Martin, Mills and Riggs"
+470,1,-1,0,1,1,1,George-Roberts
+471,0,-1,0,1,1,1,Kim Group
+472,1,-1,0,1,1,1,"Ramirez, Shaw and Thompson"
+473,1,-1,0,1,1,1,Malone Inc
+474,1,-1,0,1,1,1,Myers LLC
+475,1,-1,0,1,1,1,Smith-Rice
+476,1,-1,0,1,1,1,Jackson and Sons
+477,1,-1,0,1,1,1,Romero-Lopez
+478,1,-1,0,1,1,1,Wilkins-Allen
+479,1,-1,0,1,1,1,Hernandez-Ortega
+480,1,-1,0,1,1,1,Martin LLC
+481,1,-1,0,1,1,1,Barrett-Graham
+482,0,-1,0,1,1,1,Perez Ltd
+483,1,-1,0,1,1,1,Kim and Sons
+484,1,-1,0,1,1,1,Combs-Morrison
+485,1,-1,0,1,1,1,Gamble-Summers
+486,1,-1,0,1,1,1,Stone Ltd
+487,1,-1,0,1,1,1,Spears and Sons
+488,1,-1,0,1,1,1,Johnson-Wilcox
+489,1,-1,0,1,1,1,Harris-Perkins
+490,0,-1,0,1,1,1,Vargas-Green
+491,1,-1,0,1,1,1,Hunt Group
+492,1,-1,0,1,1,1,Shelton and Sons
+493,1,-1,0,1,1,1,Ferguson-Cline
+494,1,-1,0,1,1,1,Harrison and Sons
+495,1,-1,1,1,1,1,"Grimes, Dixon and Mccullough"
+496,1,-1,1,1,1,1,Nichols-Lopez
+497,1,-1,0,1,1,1,Diaz-Mcdaniel
+498,0,-1,0,1,1,1,Tyler-Robles
+499,1,-1,0,1,1,1,"Mcguire, Graham and Gardner"
+500,0,-1,0,1,1,1,"Gonzalez, Anderson and Nguyen"
+501,0,-1,0,1,1,1,Washington Inc
+502,1,-1,0,1,1,1,Lee Ltd
+503,1,-1,0,1,1,1,Pruitt-Acosta
+504,0,-1,0,1,1,1,Lopez LLC
+505,1,-1,0,1,1,1,"Young, Garrett and Vasquez"
+506,1,-1,0,1,1,1,"Wheeler, Nichols and Williams"
+507,0,-1,0,1,1,1,Paul LLC
+508,1,-1,0,1,1,1,"Wallace, Mccarthy and Johnson"
+509,0,-1,0,1,1,1,Walton-Marshall
+510,1,-1,0,1,1,1,Jones-Phillips
+511,1,-1,0,1,1,1,Smith-Dunn
+512,1,-1,0,1,1,1,Campbell-Chandler
+513,0,-1,0,1,1,1,Griffin and Sons
+514,1,-1,1,1,1,1,Collins-Price
+515,1,-1,0,1,1,1,"Snyder, Cisneros and White"
+516,1,-1,0,1,1,1,Sosa Group
+517,0,-1,0,1,1,1,Love and Sons
+518,1,-1,0,1,1,1,Salazar Inc
+519,1,-1,0,1,1,1,"Mccann, Johns and Davis"
+520,1,-1,0,1,1,1,"Young, Nichols and Robbins"
+521,1,-1,0,1,1,1,Moon Ltd
+522,1,-1,1,1,1,1,"Allen, Spencer and Edwards"
+523,1,-1,0,1,1,1,"Walters, Ramirez and Williams"
+524,1,-1,0,1,1,1,"Jenkins, Ray and Burnett"
+525,1,-1,0,1,1,1,Spencer-Johnson
+526,1,-1,0,1,1,1,"Reed, Jones and Golden"
+527,1,-1,0,1,1,1,Cox-Cain
+528,1,-1,0,1,1,1,Stewart-Zamora
+529,1,-1,0,1,1,1,Jones-Elliott
+530,1,-1,0,1,1,1,Moreno-Evans
+531,1,-1,0,1,1,1,"Parker, Mitchell and Hanna"
+532,1,-1,1,1,1,1,Aguilar Inc
+533,1,-1,0,1,1,1,Jones-Cain
+534,1,-1,0,1,1,1,"Garcia, Boone and Medina"
+535,1,-1,0,1,1,1,"Rodriguez, Harrington and Hart"
+536,1,-1,0,1,1,1,"Brock, Johnson and Terrell"
+537,1,-1,1,1,1,1,Hernandez-Wagner
+538,1,-1,0,1,1,1,Perez LLC
+539,1,-1,0,1,1,1,Todd Inc
+540,1,-1,0,1,1,1,"Wong, Reed and Walsh"
+541,1,-1,0,1,1,1,Nguyen PLC
+542,1,-1,0,1,1,1,Burgess PLC
+543,1,-1,0,1,1,1,"King, Sparks and Burton"
+544,1,-1,0,1,1,1,Munoz Ltd
+545,1,-1,0,1,1,1,"King, Cox and Lee"
+546,1,-1,0,1,1,1,Harris and Sons
+547,1,-1,0,1,1,1,"Gutierrez, King and West"
+548,1,-1,0,1,1,1,Hall Inc
+549,1,-1,0,1,1,1,"Boyd, Williams and Meza"
+550,1,-1,0,1,1,1,"Anderson, Gomez and Sanchez"
+551,1,-1,0,1,1,1,Manning PLC
+552,1,-1,0,1,1,1,Diaz-Gilmore
+553,1,-1,0,1,1,1,"Coleman, Hill and Estrada"
+554,1,-1,0,1,1,1,Anderson-Reed
+555,1,-1,0,1,1,1,"Ruiz, Scott and Golden"
+556,1,-1,0,1,1,1,Hoffman PLC
+557,1,-1,1,1,1,1,Sanchez-Buchanan
+558,1,-1,0,1,1,1,Castro Inc
+559,1,-1,0,1,1,1,Thomas-Young
+560,1,-1,0,1,1,1,Nash Group
+561,1,-1,0,1,1,1,Moss Inc
+562,1,-1,0,1,1,1,Powell-Ward
+563,0,-1,0,1,1,1,Cook LLC
+564,1,-1,0,1,1,1,Glenn-Camacho
+565,1,-1,0,1,1,1,Moran-Hogan
+566,1,-1,0,1,1,1,"Pratt, Gutierrez and Robinson"
+567,1,-1,1,1,1,1,Spears LLC
+568,1,-1,0,1,1,1,Brown-Garza
+569,0,-1,0,1,1,1,Williams-Charles
+570,1,-1,0,1,1,1,Randall-Sullivan
+571,1,-1,0,1,1,1,"Bowen, Marshall and Duncan"
+572,1,-1,0,1,1,1,Davis Inc
+573,1,-1,0,1,1,1,Stevens-Cooper
+574,1,-1,0,1,1,1,"Baker, Phillips and Mendoza"
+575,1,-1,0,1,1,1,"James, Levy and Gregory"
+576,1,-1,0,1,1,1,Camacho-Hood
+577,1,-1,0,1,1,1,Harrison Inc
+578,1,-1,0,1,1,1,"Merritt, Chaney and Williams"
+579,1,-1,0,1,1,1,Pope-Williams
+580,1,-1,0,1,1,1,Duncan-Pham
+581,1,-1,0,1,1,1,"Mcgee, Rose and Mcdaniel"
+582,1,-1,0,1,1,1,Williams-Nguyen
+583,1,-1,0,1,1,1,Young and Sons
+584,1,-1,0,1,1,1,"Roberson, Castillo and Norton"
+585,1,-1,0,1,1,1,"Nelson, Mclean and Jenkins"
+586,1,-1,0,1,1,1,"Davis, Schaefer and Scott"
+587,1,-1,0,1,1,1,Lewis PLC
+588,0,-1,0,1,1,1,"Mendoza, Casey and Hughes"
+589,1,-1,0,1,1,1,"Powell, Copeland and Pena"
+590,1,-1,0,1,1,1,Nash-Lane
+591,1,-1,0,1,1,1,Miller PLC
+592,1,-1,0,1,1,1,Gallagher-Green
+593,1,-1,0,1,1,1,Bell LLC
+594,1,-1,1,1,1,1,"Hughes, Fleming and Neal"
+595,1,-1,0,1,1,1,"Anderson, Walker and Norman"
+596,0,-1,0,1,1,1,Reyes-Diaz
+597,1,-1,0,1,1,1,Sanders PLC
+598,1,-1,0,1,1,1,"Kramer, Mitchell and Boyle"
+599,1,-1,0,1,1,1,"Taylor, Robinson and Burns"
+600,1,-1,0,1,1,1,"Briggs, Gilbert and Gillespie"
+601,1,-1,0,1,1,1,Jackson PLC
+602,1,-1,0,1,1,1,Willis PLC
+603,1,-1,0,1,1,1,"Manning, Quinn and Walker"
+604,1,-1,0,1,1,1,"Houston, Thomas and Leonard"
+605,1,-1,0,1,1,1,Abbott PLC
+606,1,-1,0,1,1,1,"King, Bentley and Young"
+607,1,-1,0,1,1,1,Hobbs-Brown
+608,1,-1,0,1,1,1,"Cantrell, Donovan and Porter"
+609,1,-1,0,1,1,1,Christian LLC
+610,1,-1,0,1,1,1,Miller-Moyer
+611,0,-1,0,1,1,1,"Rice, Oliver and Haynes"
+612,1,-1,0,1,1,1,Mckinney-Smith
+613,1,-1,0,1,1,1,"Marks, Dixon and Lowery"
+614,1,-1,0,1,1,1,Hampton Group
+615,1,-1,0,1,1,1,Collins and Sons
+616,1,-1,0,1,1,1,Andrews-Moss
+617,1,-1,0,1,1,1,"Wood, Green and Bowman"
+618,1,-1,0,1,1,1,Clayton Ltd
+619,1,-1,0,1,1,1,"Williams, Frazier and Cannon"
+620,1,-1,0,1,1,1,Wheeler-Burns
+621,1,-1,0,1,1,1,Hernandez-Woodward
+622,1,-1,0,1,1,1,"Johnson, Avila and Perry"
+623,1,-1,0,1,1,1,Kim-Gibson
+624,1,-1,0,1,1,1,Haynes-Smith
+625,1,-1,0,1,1,1,"Torres, Rogers and Vincent"
+626,1,-1,0,1,1,1,Davis-Austin
+627,1,-1,0,1,1,1,"Olson, Adams and Martin"
+628,1,-1,0,1,1,1,"Watkins, Khan and Fleming"
+629,1,-1,0,1,1,1,Santos Inc
+630,1,-1,0,1,1,1,Cook Ltd
+631,1,-1,1,1,1,1,Pennington-King
+632,1,-1,0,1,1,1,Hogan-Martinez
+633,1,-1,0,1,1,1,Cowan Inc
+634,0,-1,0,1,1,1,"Stevenson, Curry and Lopez"
+635,1,-1,0,1,1,1,Melendez-Owens
+636,1,-1,0,1,1,1,Smith LLC
+637,1,-1,0,1,1,1,"Cook, Mcfarland and Peterson"
+638,1,-1,0,1,1,1,Wright-Weber
+639,1,-1,0,1,1,1,Francis-Green
+640,1,-1,0,1,1,1,Garza Group
+641,1,-1,0,1,1,1,Hernandez-Short
+642,1,-1,0,1,1,1,Ray-Rowe
+643,1,-1,0,1,1,1,"Kane, Thomas and Camacho"
+644,1,-1,0,1,1,1,Gentry Group
+645,1,-1,0,1,1,1,"Cook, Ferguson and Black"
+646,1,-1,0,1,1,1,Montoya-Davis
+647,1,-1,0,1,1,1,Jones Group
+648,1,-1,0,1,1,1,Martinez PLC
+649,1,-1,0,1,1,1,Keller and Sons
+650,1,-1,0,1,1,1,Peterson and Sons
+651,1,-1,0,1,1,1,"Rose, Allen and Phillips"
+652,1,-1,0,1,1,1,Frye-Parrish
+653,1,-1,0,1,1,1,"Durham, Johnson and Johnson"
+654,1,-1,0,1,1,1,"Gutierrez, Gregory and Hoffman"
+655,1,-1,0,1,1,1,Gibson Ltd
+656,1,-1,0,1,1,1,"Greene, Cox and Burns"
+657,1,-1,0,1,1,1,"Shaw, Santana and Washington"
+658,1,-1,0,1,1,1,Sampson and Sons
+659,1,-1,0,1,1,1,"Smith, Powell and Jones"
+660,1,-1,0,1,1,1,Wells Ltd
+661,1,-1,0,1,1,1,"Garcia, Blevins and Juarez"
+662,1,-1,0,1,1,1,"Wagner, Benton and Ramirez"
+663,1,-1,0,1,1,1,Baker Inc
+664,1,-1,0,1,1,1,"Brown, Wilson and Pierce"
+665,1,-1,0,1,1,1,"Frank, Barrett and Garrett"
+666,1,-1,0,1,1,1,"Jones, Morales and Sheppard"
+667,1,-1,0,1,1,1,Smith Group
+668,1,-1,0,1,1,1,Castaneda-Anderson
+669,1,-1,0,1,1,1,"Benson, Fields and Villegas"
+670,1,-1,0,1,1,1,Flores-Cruz
+671,1,-1,0,1,1,1,"Cohen, Wilson and Winters"
+672,1,-1,0,1,1,1,Mathews-Ross
+673,1,-1,0,1,1,1,Ortiz and Sons
+674,1,-1,0,1,1,1,Collins-Esparza
+675,1,-1,0,1,1,1,Becker Inc
+676,1,-1,1,1,1,1,Roberts-Romero
+677,1,-1,0,1,1,1,Smith-Mccoy
+678,1,-1,0,1,1,1,"Ramirez, Maxwell and Rice"
+679,1,-1,0,1,1,1,Hill-Rojas
+680,1,-1,0,1,1,1,Higgins Ltd
+681,1,-1,0,1,1,1,"Clark, Johnston and Robinson"
+682,1,-1,0,1,1,1,Ramirez-Griffin
+683,1,-1,0,1,1,1,Anderson-Flores
+684,1,-1,0,1,1,1,Carter-Andersen
+685,1,-1,0,1,1,1,"Blair, Hansen and Moore"
+686,1,-1,0,1,1,1,Coleman Inc
+687,1,-1,0,1,1,1,Stewart-Harrison
+688,1,-1,0,1,1,1,Blackburn Inc
+689,1,-1,0,1,1,1,Campbell-Duncan
+690,1,-1,0,1,1,1,Espinoza-Dixon
+691,1,-1,0,1,1,1,"Martin, Thomas and Wang"
+692,1,-1,0,1,1,1,Lewis PLC
+693,1,-1,0,1,1,1,Burgess-Martinez
+694,0,-1,0,1,1,1,"Pugh, Davis and Hoover"
+695,1,-1,0,1,1,1,"Heath, Garcia and Burns"
+696,1,-1,0,1,1,1,Mitchell-Kelley
+697,1,-1,0,1,1,1,Weiss LLC
+698,1,-1,1,1,1,1,"Mahoney, Bailey and Valentine"
+699,1,-1,0,1,1,1,Park and Sons
+700,1,-1,1,1,1,1,Peters Inc
+701,1,-1,0,1,1,1,Kirby LLC
+702,1,-1,0,1,1,1,Larson-Pearson
+703,1,-1,0,1,1,1,Patrick Group
+704,1,-1,0,1,1,1,"Rios, Escobar and Price"
+705,1,-1,0,1,1,1,Gomez-Daniels
+706,1,-1,0,1,1,1,Nunez LLC
+707,1,-1,0,1,1,1,"Moody, Baldwin and Cook"
+708,1,-1,0,1,1,1,Sheppard-Horn
+709,1,-1,0,1,1,1,Holland-Allen
+710,1,-1,0,1,1,1,"Dunn, Larsen and Young"
+711,1,-1,0,1,1,1,Nguyen-Powell
+712,1,-1,0,1,1,1,Reid-Williams
+713,1,-1,0,1,1,1,Kelley-Huynh
+714,1,-1,0,1,1,1,Buchanan-Johnson
+715,1,-1,0,1,1,1,Snow-Hunter
+716,1,-1,0,1,1,1,"Wood, Williams and Cox"
+717,1,-1,0,1,1,1,"Le, Wheeler and Powell"
+718,1,-1,0,1,1,1,Harper-Rodriguez
+719,1,-1,0,1,1,1,"Wilson, Gilmore and Jackson"
+720,1,-1,0,1,1,1,Stewart-Charles
+721,1,-1,0,1,1,1,"Parker, Smith and Wilson"
+722,1,-1,0,1,1,1,"Flores, Gutierrez and Williams"
+723,1,-1,0,1,1,1,Boyd-Ferrell
+724,1,-1,0,1,1,1,"Perez, Miller and Luna"
+725,1,-1,0,1,1,1,Rodriguez-Cox
+726,1,-1,0,1,1,1,Carpenter Group
+727,1,-1,0,1,1,1,"Scott, Robertson and Lewis"
+728,1,-1,0,1,1,1,Watts Ltd
+729,1,-1,0,1,1,1,Moore Ltd
+730,1,-1,0,1,1,1,Walls Group
+731,1,-1,0,1,1,1,Wong PLC
+732,1,-1,0,1,1,1,Davis-Black
+733,1,-1,0,1,1,1,Gibson-Miles
+734,1,-1,0,1,1,1,Sanders-Phillips
+735,1,-1,0,1,1,1,Becker LLC
+736,1,-1,0,1,1,1,Noble Ltd
+737,1,-1,0,1,1,1,"Schroeder, King and Cabrera"
+738,1,-1,0,1,1,1,Vasquez-Reed
+739,1,-1,0,1,1,1,"Harris, Meyer and Moore"
+740,1,-1,0,1,1,1,"Washington, Martinez and King"
+741,1,-1,0,1,1,1,Hubbard-Goodman
+742,1,-1,0,1,1,1,"Cabrera, Oneill and White"
+743,1,-1,0,1,1,1,Matthews Group
+744,1,-1,0,1,1,1,"Harris, Hawkins and Hansen"
+745,1,-1,0,1,1,1,Palmer LLC
+746,1,-1,0,1,1,1,"Todd, Woodward and Davidson"
+747,1,-1,0,1,1,1,Rhodes Ltd
+748,1,-1,0,1,1,1,Romero and Sons
+749,1,-1,0,1,1,1,Flynn and Sons
+750,1,-1,0,1,1,1,Matthews Ltd
+751,1,-1,0,1,1,1,Hernandez-Hanna
+752,1,-1,0,1,1,1,Powell LLC
+753,1,-1,0,1,1,1,Murphy PLC
+754,1,-1,0,1,1,1,Gonzalez-Gross
+755,1,-1,0,1,1,1,Garza-Nicholson
+756,1,-1,0,1,1,1,Stokes Ltd
+757,1,-1,0,1,1,1,"Burgess, Chen and Holt"
+758,1,-1,0,1,1,1,Marks Ltd
+759,1,-1,0,1,1,1,"Hayes, Lewis and Greer"
+760,0,-1,0,1,1,1,Wood PLC
+761,1,-1,0,1,1,1,"Williams, Cunningham and Howard"
+762,1,-1,0,1,1,1,"Bowen, Cantu and Bird"
+763,1,-1,0,1,1,1,Ellis Group
+764,1,-1,0,1,1,1,Nixon Inc
+765,1,-1,0,1,1,1,Jimenez PLC
+766,1,-1,0,1,1,1,Lopez-Young
+767,1,-1,0,1,1,1,Gill Group
+768,1,-1,0,1,1,1,Donovan-White
+769,1,-1,0,1,1,1,"Cortez, Ellis and Odom"
+770,1,-1,0,1,1,1,"Gonzalez, Howe and Carr"
+771,1,-1,0,1,1,1,Perry-Vargas
+772,1,-1,0,1,1,1,Lloyd-Morris
+773,1,-1,0,1,1,1,"Gonzalez, Gibson and Lopez"
+774,1,-1,0,1,1,1,Serrano-Jackson
+775,1,-1,0,1,1,1,Watson Inc
+776,1,-1,0,1,1,1,Kelly-Andrade
+777,1,-1,0,1,1,1,Stanley-Parker
+778,1,-1,0,1,1,1,"Holland, Brooks and Burton"
+779,1,-1,0,1,1,1,"Bishop, Houston and Lara"
+780,1,-1,0,1,1,1,Davis-Cook
+781,1,-1,0,1,1,1,Diaz-Ramirez
+782,1,-1,0,1,1,1,Riley LLC
+783,1,-1,0,1,1,1,Stone-Alvarado
+784,1,-1,0,1,1,1,"Valdez, Mcclure and Simmons"
+785,1,-1,0,1,1,1,Williams-Williams
+786,1,-1,0,1,1,1,Bryant Ltd
+787,1,-1,0,1,1,1,Dunlap-Smith
+788,1,-1,0,1,1,1,Mercado and Sons
+789,1,-1,0,1,1,1,"White, Goodman and Ortiz"
+790,1,-1,0,1,1,1,Hansen-Ramirez
+791,1,-1,0,1,1,1,"Pruitt, Hernandez and Valdez"
+792,1,-1,0,1,1,1,White Group
+793,1,-1,0,1,1,1,Ryan-Peterson
+794,1,-1,0,1,1,1,"Brown, Rasmussen and Cruz"
+795,1,-1,0,1,1,1,Rhodes PLC
+796,1,-1,0,1,1,1,Cochran Inc
+797,1,-1,0,1,1,1,Sawyer-Powell
+798,1,-1,0,1,1,1,Cook-Green
+799,1,-1,0,1,1,1,Garrett-Miller
+800,1,-1,0,1,1,1,Colon Ltd
+801,1,-1,0,1,1,1,Coleman Ltd
+802,1,-1,0,1,1,1,Lambert-Haynes
+803,1,-1,0,1,1,1,Hall-Bell
+804,1,-1,0,1,1,1,Gordon LLC
+805,1,-1,0,1,1,1,Hoffman-Thornton
+806,1,-1,0,1,1,1,Ramirez LLC
+807,1,-1,0,1,1,1,Stone-Leonard
+808,1,-1,0,1,1,1,Ross-Greene
+809,1,-1,0,1,1,1,Sweeney and Sons
+810,1,-1,0,1,1,1,"Krueger, Nelson and Woods"
+811,1,-1,0,1,1,1,Russo Group
+812,1,-1,0,1,1,1,"Taylor, Davis and Hughes"
+813,1,-1,0,1,1,1,Reid Inc
+814,1,-1,0,1,1,1,"Lee, Russo and Howard"
+815,1,-1,0,1,1,1,Ross LLC
+816,1,-1,0,1,1,1,Wood-Simmons
+817,1,-1,0,1,1,1,"Rodriguez, Jones and Skinner"
+818,1,-1,0,1,1,1,Aguilar Inc
+819,1,-1,1,0,0,0,Wang and Sons
+820,1,-1,1,1,1,1,"Humphrey, Oliver and Dennis"
+821,0,-1,0,1,1,1,Riddle PLC
+822,1,-1,0,1,1,1,Hogan-Fisher
+823,1,-1,0,1,1,1,Gutierrez-Hodge
+824,1,-1,0,1,1,1,Silva LLC
+825,1,-1,0,1,1,1,Pena Ltd
+826,1,-1,0,1,1,1,Daniels LLC
+827,1,-1,0,1,1,1,"Steele, Mosley and Green"
+828,1,-1,0,1,1,1,"Farmer, Brooks and Crosby"
+829,1,-1,0,1,1,1,Hayes and Sons
+830,1,-1,0,1,1,1,Gould-Gonzales
+831,1,-1,0,1,1,1,Hill Ltd
+832,1,-1,0,1,1,1,"Whitehead, Fields and Lopez"
+833,1,-1,0,1,1,1,Oconnor-Perez
+834,1,-1,0,1,1,1,Haynes PLC
+835,1,-1,0,1,1,1,"Kramer, Hall and Kennedy"
+836,1,-1,0,1,1,1,"Jackson, Wilson and Higgins"
+837,1,-1,0,1,1,1,Reynolds-Torres
+838,1,-1,0,1,1,1,Lewis Ltd
+839,1,-1,0,1,1,1,Carr PLC
+840,1,-1,0,1,1,1,Gibson Inc
+841,1,-1,0,1,1,1,Jordan LLC
+842,1,-1,0,1,1,1,"Robertson, Walker and Mcconnell"
+843,1,-1,0,1,1,1,"Sanchez, Vargas and Bauer"
+844,1,-1,0,1,1,1,Reid and Sons
+845,1,-1,0,1,1,1,"May, Farrell and Wu"
+846,1,-1,0,1,1,1,Wilkins-Martinez
+847,1,-1,0,1,1,1,Pham Group
+848,1,-1,0,1,1,1,Lowe PLC
+849,1,-1,0,1,1,1,Gill-Pineda
+850,1,-1,0,1,1,1,"Love, Hayes and Allen"
+851,1,-1,0,1,1,1,Butler LLC
+852,1,-1,1,1,1,1,"Morgan, Mcguire and Douglas"
+853,1,-1,0,1,1,1,Hurley-Martin
+854,1,-1,0,1,1,1,"Lowe, Moss and Johnson"
+855,1,-1,0,1,1,1,"Mcmahon, Clark and Medina"
+856,1,-1,1,1,1,1,Blake Inc
+857,1,-1,0,1,1,1,Martin PLC
+858,1,-1,0,1,1,1,Richards-Dixon
+859,1,-1,0,1,1,1,"Steele, Sanchez and Craig"
+860,1,-1,0,1,1,1,Ramsey-Velez
+861,1,-1,0,1,1,1,Knight-Mcclain
+862,1,-1,0,1,1,1,Malone and Sons
+863,0,-1,0,1,1,1,"Gibson, Perez and Gross"
+864,1,-1,0,1,1,1,Harrington-Burnett
+865,1,-1,0,1,1,1,"Wilkins, Williams and Watkins"
+866,1,-1,0,1,1,1,"Patterson, Thomas and Smith"
+867,1,-1,0,1,1,1,Hall-Elliott
+868,1,-1,0,1,1,1,Williams Ltd
+869,1,-1,0,1,1,1,Daugherty PLC
+870,1,-1,0,1,1,1,"Payne, Paul and Knight"
+871,1,-1,0,1,1,1,Smith PLC
+872,1,-1,0,1,1,1,"Martin, Martin and Collins"
+873,1,-1,0,1,1,1,Salinas-Gonzales
+874,1,-1,0,1,1,1,Monroe Group
+875,1,-1,0,1,1,1,Henry-Barrera
+876,1,-1,0,1,1,1,Reid-Adams
+877,1,-1,0,1,1,1,Harris-Bright
+878,1,-1,0,1,1,1,Jacobs-Gonzalez
+879,1,-1,0,1,1,1,Tyler PLC
+880,1,-1,0,1,1,1,"Castillo, Mcmillan and Wilson"
+881,1,-1,0,1,1,1,"Thompson, Powell and Smith"
+882,1,-1,0,1,1,1,"Fisher, Henderson and Rhodes"
+883,1,-1,0,1,1,1,Brown-Simon
+884,1,-1,0,1,1,1,Walsh-Williams
+885,1,-1,0,1,1,1,Mendoza and Sons
+886,1,-1,0,1,1,1,Garcia LLC
+887,1,-1,0,1,1,1,Evans PLC
+888,1,-1,0,1,1,1,Bond PLC
+889,1,-1,0,1,1,1,"Miller, Gomez and Vasquez"
+890,1,-1,0,1,1,1,Pace-Smith
+891,1,-1,0,1,1,1,"Robinson, Sutton and Fitzgerald"
+892,1,-1,0,1,1,1,Williams PLC
+893,1,-1,0,1,1,1,Fields-Fox
+894,1,-1,0,1,1,1,"Greene, Thomas and Johnson"
+895,1,-1,0,1,1,1,Holland Group
+896,1,-1,0,1,1,1,Klein LLC
+897,1,-1,0,1,1,1,Fox-Sanchez
+898,1,-1,0,1,1,1,Powell-Anderson
+899,1,-1,0,1,1,1,"Butler, Young and Perez"
+900,1,-1,0,1,1,1,Smith Ltd
+901,1,-1,0,1,1,1,Ray and Sons
+902,1,-1,0,1,1,1,"Davis, Vance and Gill"
+903,1,-1,0,1,1,1,Pacheco Group
+904,1,-1,0,1,1,1,"Andrews, Richardson and Woods"
+905,1,-1,0,1,1,1,"Smith, Baker and Robles"
+906,1,-1,0,1,1,1,Carey-White
+907,1,-1,0,1,1,1,Diaz-Johnston
+908,1,-1,0,1,1,1,Huffman-Giles
+909,1,-1,0,1,1,1,"Walker, Nelson and Schmidt"
+910,1,-1,0,1,1,1,Bradshaw-Atkinson
+911,1,-1,0,1,1,1,Richard Inc
+912,1,-1,0,1,1,1,"Snow, Leonard and Goodwin"
+913,1,-1,0,1,1,1,Smith LLC
+914,1,-1,0,1,1,1,"Walker, Brown and Martin"
+915,1,-1,0,1,1,1,"Anderson, Hall and Holland"
+916,1,-1,0,1,1,1,Williams-Simmons
+917,1,-1,0,1,1,1,"Roberts, Green and Goodwin"
+918,1,-1,0,1,1,1,Joseph-Harvey
+919,1,-1,0,1,1,1,Martinez-Morris
+920,1,-1,0,1,1,1,Pace-Thompson
+921,1,-1,0,1,1,1,Sims Inc
+922,1,-1,0,1,1,1,Dickerson-Kim
+923,1,-1,0,1,1,1,"Martinez, Lee and Johnson"
+924,1,-1,0,1,1,1,Cannon-Miller
+925,1,-1,0,1,1,1,Knox-Lee
+926,1,-1,0,1,1,1,Owens-Montgomery
+927,1,-1,0,1,1,1,"Dunn, Boyd and Miller"
+928,1,-1,0,1,1,1,Luna PLC
+929,1,-1,0,1,1,1,"Armstrong, Little and Patterson"
+930,1,-1,0,1,1,1,"Griffith, Taylor and Parsons"
+931,1,-1,0,1,1,1,"Black, Jackson and Klein"
+932,1,-1,0,1,1,1,Myers Group
+933,1,-1,0,1,1,1,"Brown, Martinez and Webster"
+934,1,-1,0,1,1,1,Murphy LLC
+935,1,-1,0,1,1,1,Johnson-Cuevas
+936,1,-1,0,1,1,1,"Parker, Thompson and Perez"
+937,1,-1,0,1,1,1,Pena LLC
+938,1,-1,0,1,1,1,"Christensen, Fox and Berger"
+939,1,-1,0,1,1,1,"Cook, Myers and Ward"
+940,1,-1,0,1,1,1,"Sosa, Ferguson and Salas"
+941,1,-1,0,1,1,1,Carrillo-Roberts
+942,1,-1,0,1,1,1,Dominguez-Weeks
+943,1,-1,1,1,1,1,Gillespie and Sons
+944,1,-1,0,1,1,1,"Dickson, Summers and Wang"
+945,1,-1,0,1,1,1,Cox PLC
+946,1,-1,0,1,1,1,Adams and Sons
+947,1,-1,0,1,1,1,Anderson Inc
+948,1,-1,0,1,1,1,"Johnson, Benton and Hoffman"
+949,1,-1,0,1,1,1,"Gutierrez, Vazquez and Miller"
+950,1,-1,0,1,1,1,"Adkins, Hill and Beard"
+951,1,-1,0,1,1,1,"Sloan, Murray and Parker"
+952,1,-1,0,1,1,1,Hall-Williams
+953,1,-1,0,1,1,1,"Smith, Miles and Armstrong"
+954,1,-1,0,1,1,1,Harris-Gonzalez
+955,1,-1,0,1,1,1,Harvey-Clay
+956,1,-1,0,1,1,1,Mcfarland-Villa
+957,1,-1,0,1,1,1,Parrish and Sons
+958,1,-1,0,1,1,1,"Lin, Leon and Castro"
+959,1,-1,0,1,1,1,Martin PLC
+960,1,-1,1,1,1,1,Cruz PLC
+961,1,-1,1,1,1,1,"Holmes, Combs and Brown"
+962,1,-1,0,1,1,1,"Allen, Avery and Odonnell"
+963,1,-1,0,1,1,1,"Howard, Kramer and Barnes"
+964,1,-1,0,1,1,1,Hardy-Mcdonald
+965,1,-1,0,1,1,1,"Baker, Cordova and Jacobs"
+966,1,-1,0,1,1,1,"Lara, Pratt and Rodriguez"
+967,1,-1,0,1,1,1,"Castro, Rodriguez and Griffith"
+968,1,-1,0,1,1,1,Blankenship PLC
+969,1,-1,0,1,1,1,Barrett Ltd
+970,1,-1,0,1,1,1,"Martinez, Smith and Ramirez"
+971,1,-1,0,1,1,1,Johnston-Hernandez
+972,1,-1,0,1,1,1,Espinoza-Crosby
+973,1,-1,0,1,1,1,Haley-Webster
+974,1,-1,0,1,1,1,Quinn PLC
+975,1,-1,0,1,1,1,Chavez-Baker
+976,1,-1,0,1,1,1,"Lopez, Rasmussen and Taylor"
+977,1,-1,0,1,1,1,Mendoza-Johnston
+978,1,-1,0,1,1,1,Jones PLC
+979,1,-1,0,1,1,1,Marshall-Daugherty
+980,1,-1,0,1,1,1,Lewis PLC
+981,1,-1,0,1,1,1,Cunningham LLC
+982,1,-1,0,1,1,1,Marshall-Wilson
+983,1,-1,0,1,1,1,"Torres, Johnson and Melton"
+984,1,-1,0,1,1,1,Turner-Lopez
+985,1,-1,0,1,1,1,Peters LLC
+986,1,-1,0,1,1,1,Werner and Sons
+987,1,-1,0,1,1,1,"Anderson, Morgan and Summers"
+988,1,-1,0,1,1,1,Banks Ltd
+989,1,-1,0,1,1,1,Brown Ltd
+990,1,-1,0,1,1,1,Porter Ltd
+991,1,-1,0,1,1,1,"Zimmerman, Morgan and Gardner"
+992,1,-1,0,1,1,1,Evans LLC
+993,1,-1,0,1,1,1,"Kelly, Morales and Bradshaw"
+994,1,-1,0,1,1,1,Vazquez LLC
+995,1,-1,0,1,1,1,"Flores, Howe and Allen"
+996,1,-1,0,1,1,1,"Morton, Terry and Walker"
+997,1,-1,0,1,1,1,Lambert-Castillo
+998,1,-1,0,1,1,1,"Jones, George and Harris"
+999,1,-1,0,1,1,1,Garrett Inc
+1000,1,-1,0,1,1,1,Allen PLC
+1001,1,-1,0,1,1,1,Gibson-Green
+1002,1,-1,0,1,1,1,Curry Group
+1003,1,-1,0,1,1,1,Newton-Nguyen
+1004,1,-1,0,1,1,1,"Durham, Jackson and Casey"
+1005,1,-1,0,1,1,1,Gonzalez-Carpenter
+1006,1,-1,0,1,1,1,"Lopez, Campbell and Miles"
+1007,1,-1,0,1,1,1,Duncan and Sons
+1008,1,-1,0,1,1,1,"Thompson, Williams and Dean"
+1009,1,-1,0,1,1,1,Marquez and Sons
+1010,1,-1,0,1,1,1,Malone-Luna
+1011,1,-1,0,1,1,1,"Ramirez, Kirk and Mckenzie"
+1012,1,-1,0,1,1,1,"Cuevas, Klein and Riddle"
+1013,1,-1,0,1,1,1,"Fowler, Gardner and Baker"
+1014,1,-1,0,1,1,1,White PLC
+1015,1,-1,0,0,0,0,"Bryant, Benson and Haas"
+1016,1,-1,0,1,1,1,"Lyons, Roth and Rodriguez"
+1017,1,-1,0,1,1,1,Kelly-Murphy
+1018,1,-1,0,1,1,1,Wade-Graham
+1019,1,-1,0,1,1,1,"Watkins, Carrillo and Chavez"
+1020,1,-1,0,1,1,1,Brooks-Merritt
+1021,1,-1,0,1,1,1,Palmer Inc
+1022,1,-1,0,1,1,1,Kelley-Gilmore
+1023,1,-1,0,1,1,1,Pace Group
+1024,1,-1,0,1,1,1,Lambert Group
+1025,1,-1,0,1,1,1,Martinez-Baker
+1026,1,-1,0,1,1,1,Hill and Sons
+1027,1,-1,0,1,1,1,"Conner, Blair and Roberts"
+1028,1,-1,0,1,1,1,"Gross, Butler and Cole"
+1029,1,-1,0,1,1,1,"Hobbs, Miller and Lambert"
+1030,1,-1,0,1,1,1,Harrell Inc
+1031,1,-1,0,1,1,1,"Murphy, Butler and Harris"
+1032,1,-1,0,1,1,1,Maddox Ltd
+1033,1,-1,0,1,1,1,Torres-Smith
+1034,1,-1,0,1,1,1,"Huynh, Kemp and Fuentes"
+1035,1,-1,0,1,1,1,"Smith, Anderson and Guerra"
+1036,1,-1,0,1,1,1,"Sanchez, Bowers and Ballard"
+1037,1,-1,0,1,1,1,Brown-Aguirre
+1038,1,-1,0,1,1,1,"Nolan, Martinez and Gordon"
+1039,1,-1,0,1,1,1,"Farmer, Hoffman and Campbell"
+1040,1,-1,0,1,1,1,"Daniel, Cruz and Jordan"
+1041,1,-1,0,1,1,1,Bennett and Sons
+1042,1,-1,0,1,1,1,Berg PLC
+1043,1,-1,0,1,1,1,"Estes, Duran and Perez"
+1044,1,-1,0,1,1,1,"Powell, Jimenez and Schwartz"
+1045,1,-1,0,1,1,1,Torres-Lynch
+1046,1,-1,0,1,1,1,Evans-Allen
+1047,1,-1,0,1,1,1,"Gordon, Hoffman and Jordan"
+1048,1,-1,0,1,1,1,Allen-Burch
+1049,1,-1,0,1,1,1,Craig-Gray
+1050,1,-1,0,1,1,1,Wilson Ltd
+1051,1,-1,0,1,1,1,Sherman-Chavez
+1052,1,-1,0,1,1,1,Padilla-Garrett
+1053,1,-1,0,1,1,1,Graham Group
+1054,1,-1,0,1,1,1,Jensen-Smith
+1055,1,-1,0,1,1,1,"Novak, Robinson and Willis"
+1056,1,-1,0,1,1,1,"Johnson, Rhodes and Lopez"
+1057,1,-1,0,1,1,1,"Moore, Clark and Johnson"
+1058,1,-1,0,1,1,1,"Berger, Pratt and Hoffman"
+1059,1,-1,0,1,1,1,"Wright, Bell and Lambert"
+1060,1,-1,0,1,1,1,Wilkerson-Williams
+1061,1,-1,0,1,1,1,Singh-Williams
+1062,1,-1,0,1,1,1,Hall-Gray
+1063,1,-1,0,1,1,1,Hernandez-Hodge
+1064,1,-1,0,1,1,1,Smith-Kim
+1065,1,-1,0,1,1,1,Williams Ltd
+1066,1,-1,0,1,1,1,Miller-Black
+1067,1,-1,0,1,1,1,"White, Austin and Nash"
+1068,1,-1,0,1,1,1,"Harris, Thomas and King"
+1069,1,-1,0,1,1,1,"Wright, Norman and Willis"
+1070,1,-1,0,1,1,1,Johnson-Smith
+1071,1,-1,0,1,1,1,Vincent Group
+1072,1,-1,0,1,1,1,Spears-Ruiz
+1073,1,-1,0,1,1,1,Evans PLC
+1074,1,-1,0,1,1,1,"Wall, Hensley and Russell"
+1075,1,-1,0,1,1,1,Aguirre Group
+1076,1,-1,0,1,1,1,Garza-Gomez
+1077,1,-1,0,1,1,1,Ayers-Hanna
+1078,1,-1,0,1,1,1,"Matthews, Lopez and Goodman"
+1079,1,-1,0,1,1,1,Frye LLC
+1080,1,-1,0,1,1,1,Macias-Mullen
+1081,1,-1,0,1,1,1,King-Myers
+1082,1,-1,0,1,1,1,"Myers, Bailey and Johnson"
+1083,1,-1,0,1,1,1,"Payne, Love and Carroll"
+1084,1,-1,0,1,1,1,Montgomery LLC
+1085,1,-1,0,1,1,1,Morton PLC
+1086,1,-1,0,1,1,1,Snyder-Mann
+1087,1,-1,0,1,1,1,"Christian, Wells and Anderson"
+1088,1,-1,0,1,1,1,Blair LLC
+1089,1,-1,0,1,1,1,Johnson-Schultz
+1090,1,-1,0,1,1,1,"Gomez, Vega and Curtis"
+1091,1,-1,0,1,1,1,"Carson, Zavala and Henry"
+1092,1,-1,0,1,1,1,Smith Inc
+1093,1,-1,0,1,1,1,"Swanson, Matthews and Nelson"
+1094,1,-1,0,1,1,1,Ruiz-Peterson
+1095,1,-1,0,1,1,1,Jones and Sons
+1096,1,-1,0,1,1,1,"Gardner, Hill and Collins"
+1097,1,-1,0,1,1,1,"Porter, Herrera and Bryan"
+1098,1,-1,0,1,1,1,Black Group
+1099,1,-1,0,1,1,1,Nolan Ltd
+1100,1,-1,0,1,1,1,"Stephens, Wells and Ellis"
+1101,1,-1,0,1,1,1,"Quinn, Fisher and Diaz"
+1102,1,,0,1,1,1,Parker Ltd
+1103,1,-1,1,0,0,0,Khan and Sons
+1104,1,-1,0,1,1,1,"Rodriguez, Simon and Hill"
+1105,1,-1,0,1,1,1,"Wilcox, Bailey and Gomez"
+1106,1,-1,0,1,1,1,Gonzales PLC
+1107,1,-1,0,1,1,1,Wang-Deleon
+1108,1,-1,0,1,1,1,"Reynolds, Webb and Davis"
+1109,1,-1,0,1,1,1,Becker PLC
+1110,1,-1,0,1,1,1,Torres PLC
+1111,1,-1,0,1,1,1,Thompson-Hill
+1112,1,-1,0,1,1,1,Griffin Inc
+1113,1,-1,0,1,1,1,Bennett-Herring
+1114,1,-1,0,1,1,1,"Figueroa, Chase and Ware"
+1115,1,-1,0,1,1,1,"Gutierrez, Smith and Stewart"
+1116,1,-1,0,1,1,1,Smith-Rivera
+1117,1,-1,0,1,1,1,"Lopez, Campbell and West"
+1118,1,-1,0,1,1,1,"Johnson, Austin and Larson"
+1119,1,-1,0,1,1,1,Lambert-Frederick
+1120,1,-1,0,1,1,1,Edwards Ltd
+1121,1,-1,0,1,1,1,"Glass, Silva and Robinson"
+1122,1,-1,0,1,1,1,Dudley Group
+1123,1,-1,1,0,0,0,Walker-Tapia
+1124,1,-1,0,1,1,1,Eaton-Kelley
+1125,1,-1,0,1,1,1,"Smith, White and Johnson"
+1126,1,-1,0,1,1,1,"Wall, Contreras and Young"
+1127,1,-1,0,1,1,1,Chandler-Reyes
+1128,1,-1,0,1,1,1,"Green, Silva and Moore"
+1129,1,-1,0,1,1,1,Hensley Inc
+1130,1,-1,0,1,1,1,Bennett-Foster
+1131,1,-1,0,1,1,1,"Hamilton, Kline and Anderson"
+1132,1,-1,0,1,1,1,Thompson-Watts
+1133,1,-1,0,1,1,1,"Stanley, Johnston and Bates"
+1134,1,-1,0,1,1,1,Evans Inc
+1135,1,-1,0,1,1,1,"Gonzalez, Black and Ward"
+1136,1,-1,0,1,1,1,White Inc
+1137,1,-1,0,1,1,1,Rice Ltd
+1138,1,-1,0,1,1,1,"Walker, Simmons and Jones"
+1139,1,-1,0,1,1,1,Marsh Ltd
+1140,1,-1,0,1,1,1,"Hobbs, Singleton and Nunez"
+1141,1,-1,0,1,1,1,Williams Group
+1142,1,-1,0,1,1,1,Villa LLC
+1143,1,-1,0,1,1,1,Johnson-Hernandez
+1144,1,-1,0,1,1,1,Taylor PLC
+1145,1,-1,0,1,1,1,"Elliott, Webb and Jordan"
+1146,1,-1,0,1,1,1,"Wheeler, Bryant and Ward"
+1147,1,-1,0,1,1,1,Williams-Johnston
+1148,1,-1,0,1,1,1,Vega LLC
+1149,1,-1,0,1,1,1,Marshall and Sons
+1150,1,-1,0,1,1,1,"Martinez, Graham and Wells"
+1153,1,-1,0,1,1,1,"Ross, Benson and Pearson"
+1156,1,-1,0,1,1,1,"Brewer, Hanson and Guzman"
+1159,1,-1,0,1,1,1,"Moyer, Bishop and Stone"
+1162,1,-1,0,1,1,1,Webb Group
+1165,1,-1,0,1,1,1,Bond-Jackson
+1168,1,-1,0,1,1,1,Brown LLC
+1171,1,-1,0,1,1,1,"Hoffman, Jones and Nelson"
+1174,1,-1,0,1,1,1,Anderson-Clements
+1177,1,-1,0,1,1,1,"Rivera, Holt and Robertson"
+1180,1,-1,0,1,1,1,Hernandez-Gill
+1183,1,-1,0,1,1,1,Frederick-Young
+1186,1,-1,0,1,1,1,Lee-Jackson
+1189,1,-1,0,1,1,1,Jenkins-Patterson
+1192,1,-1,0,1,1,1,Thomas-Osborne
+1195,1,-1,0,1,1,1,"Young, Osborne and Clark"
+1198,1,-1,0,1,1,1,"Sanchez, White and Abbott"
+1201,1,-1,0,1,1,1,Mcdowell-West
+1204,1,-1,0,1,1,1,Smith-Braun
+1207,1,-1,0,1,1,1,Walker-Brown
+1210,1,-1,0,1,1,1,"Dunn, Rodriguez and Clements"
+1212,1,-1,0,1,1,1,Vega Ltd
+1215,1,-1,0,1,1,1,Mcclain Group
+1218,1,-1,0,1,1,1,Lee-Robbins
+1221,1,-1,0,1,1,1,Turner-Moon
+1224,1,-1,0,1,1,1,Jackson-Fleming
+1227,1,-1,0,1,1,1,"Huff, Mcintyre and Cole"
+1230,1,-1,0,1,1,1,Johnston Inc
+1233,1,-1,0,1,1,1,Martin-Carr
+1236,1,-1,0,0,0,0,"Roberts, Romero and Brown"
+1239,1,-1,0,1,1,1,Huang-Bauer
+1242,1,-1,0,1,1,1,"James, Smith and Andersen"
+1245,1,-1,0,1,1,1,Brown and Sons
+1248,1,-1,0,1,1,1,Mccoy Ltd
+1251,1,-1,0,1,1,1,Freeman-Pierce
+1254,1,-1,0,1,1,1,Luna LLC
+1256,1,-1,0,1,1,1,"Wright, Cooper and Howell"
+1259,1,-1,0,1,1,1,Jackson Ltd
+1262,1,-1,0,1,1,1,Jackson LLC
+1265,1,-1,0,1,1,1,"Walker, Morgan and Jordan"
+1268,1,-1,0,1,1,1,Lewis Inc
+1271,1,-1,0,1,1,1,"Sanders, Zamora and Harris"
+1272,1,-1,0,1,1,1,"Munoz, Hayes and Larson"
+1275,1,-1,0,1,1,1,"Young, Allen and Benjamin"
+1278,1,-1,0,1,1,1,Freeman PLC
+1281,1,-1,0,1,1,1,White Group
+1284,1,-1,0,1,1,1,"Mitchell, Vasquez and Taylor"
+1287,1,-1,0,1,1,1,"Jones, Herrera and Strickland"
+1290,1,-1,0,1,1,1,"Bryant, Carter and Hall"
+1293,1,-1,0,1,1,1,"Campbell, Freeman and Hughes"
+1296,1,-1,0,1,1,1,"Nunez, Klein and Clark"
+1299,1,-1,0,1,1,1,Carter-Myers
+1302,1,-1,0,1,1,1,Shah and Sons
+1305,1,-1,0,1,1,1,Bowers Group
+1308,1,-1,0,1,1,1,"Morales, Santana and Good"
+1311,1,-1,0,1,1,1,"Butler, Eaton and Wallace"
+1314,1,-1,0,1,1,1,Taylor Inc
+1317,1,-1,0,1,1,1,"Hess, Jackson and Quinn"
+1320,1,-1,0,1,1,1,Short and Sons
+1323,1,-1,0,1,1,1,Jones PLC
+1326,1,-1,0,1,1,1,"Estrada, Woodard and Rodriguez"
+1329,1,-1,0,1,1,1,Parrish and Sons
+1332,1,-1,0,1,1,1,"Fields, Woods and Clark"
+1335,1,-1,0,1,1,1,"Romero, Johnson and Thompson"
+1338,1,-1,0,1,1,1,Flores-Webb
+1341,1,-1,0,1,1,1,"Ortiz, Jackson and Holt"
+1344,1,-1,0,1,1,1,Patrick LLC
+1347,1,-1,0,1,1,1,Pearson-Lewis
+1350,1,-1,0,1,1,1,James-Davis
+1353,1,-1,0,1,1,1,Summers Ltd
+1356,1,-1,0,1,1,1,Gibson and Sons
+1359,1,-1,0,1,1,1,Lewis-Wood
+1362,1,-1,0,1,1,1,Jackson-Fowler
+1365,1,-1,0,1,1,1,"Jackson, Bush and Hudson"
+1368,1,-1,0,1,1,1,Campbell-Johnson
+1371,1,-1,0,1,1,1,"Sandoval, Martinez and Howell"
+1374,1,-1,0,1,1,1,Morrison LLC
+1377,1,-1,0,1,1,1,Lopez-Hayden
+1380,1,-1,0,1,1,1,Smith-Johnson
+1383,1,-1,0,1,1,1,Smith-Alexander
+1386,1,-1,0,1,1,1,"Costa, Brown and Adams"
+1389,1,-1,0,1,1,1,James Ltd
+1392,1,-1,0,1,1,1,Collins-Martinez
+1395,1,-1,0,1,1,1,Walker LLC
+1398,1,-1,0,1,1,1,Winters-Rodriguez
+1401,1,-1,0,1,1,1,"Gross, Taylor and Bennett"
+1404,1,-1,0,1,1,1,Thomas-Robbins
+1407,1,-1,0,1,1,1,Coleman-Hays
+1410,1,-1,0,1,1,1,Bennett PLC
+1413,1,-1,0,1,1,1,Mcneil-Estrada
+1416,1,-1,0,1,1,1,"Armstrong, Schultz and Hughes"
+1419,1,-1,0,1,1,1,Sawyer LLC
+1422,1,-1,0,1,1,1,"Robertson, Hunt and Moore"
+1425,1,-1,0,1,1,1,"Sanders, Murphy and Edwards"
+1428,1,-1,0,1,1,1,"Moss, Jefferson and Huang"
+1431,1,-1,0,1,1,1,Wilson LLC
+1434,1,-1,0,1,1,1,Hall Inc
+1437,1,-1,0,1,1,1,"Sullivan, Cross and Lester"
+1440,1,-1,0,1,1,1,Jones and Sons
+1443,1,-1,0,1,1,1,Coleman-Reed
+1446,1,-1,0,1,1,1,Sanders Inc
+1449,1,-1,0,1,1,1,"Peterson, Walton and Carey"
+1452,1,-1,0,1,1,1,Holmes-Anderson
+1455,1,-1,0,1,1,1,Burns-Goodman
+1458,1,-1,0,1,1,1,"Jones, Anderson and Moreno"
+1461,1,-1,0,1,1,1,Walsh and Sons
+1464,1,-1,0,1,1,1,Gonzalez Inc
+1467,1,-1,0,1,1,1,"Aguilar, Sharp and Perez"
+1470,1,-1,0,1,1,1,"Johnson, Farrell and Weaver"
+1473,1,-1,0,1,1,1,"Mueller, Brown and Cruz"
+1476,1,-1,0,1,1,1,Davis LLC
+1479,1,-1,0,1,1,1,Griffin PLC
+1482,1,-1,0,1,1,1,French-Campbell
+1485,1,-1,0,1,1,1,"Barnett, Schmidt and Brown"
+1488,1,-1,0,1,1,1,"Brooks, Dean and Higgins"
+1491,1,-1,0,1,1,1,Alexander-Harvey
+1494,1,-1,0,1,1,1,"Jones, Williams and Rodriguez"
+1497,1,-1,0,1,1,1,"Jenkins, Smith and Sullivan"
+1500,1,-1,0,1,1,1,Davis LLC
+1503,1,-1,0,1,1,1,"Alvarez, Ingram and Pierce"
+1506,1,-1,0,1,1,1,Ortiz and Sons
+1509,1,-1,0,1,1,1,Reed Ltd
+1512,1,-1,0,1,1,1,Henderson Ltd
+1515,1,-1,0,1,1,1,"Hunter, Moss and Drake"
+1518,1,-1,0,1,1,1,Williams-Sloan
+1521,1,-1,0,1,1,1,Jackson and Sons
+1524,1,-1,0,1,1,1,Wright Inc
+1527,1,-1,0,1,1,1,Garcia-Wilson
+1530,1,-1,0,1,1,1,"Gordon, Miller and Rivera"
+1533,1,-1,0,1,1,1,Flores Ltd
+1536,1,-1,0,1,1,1,"Elliott, Castillo and Guerra"
+1539,1,-1,0,1,1,1,Dean-Turner
+1542,1,-1,0,1,1,1,Cruz-Brown
+1545,1,-1,0,1,1,1,Martin-Cook
+1548,1,-1,0,1,1,1,Francis PLC
+1551,1,-1,0,1,1,1,Hall Inc
+1554,1,-1,0,1,1,1,"Diaz, Wallace and Wilson"
+1557,1,-1,0,1,1,1,Shields LLC
+1560,1,-1,0,1,1,1,Mcclure LLC
+1563,1,-1,0,1,1,1,Hernandez-Brooks
+1566,1,-1,0,1,1,1,"Rivas, Watson and Oconnor"
+1569,1,-1,0,1,1,1,Murphy-Fisher
+1572,1,-1,0,1,1,1,"Wilson, Little and Howard"
+1575,1,-1,0,1,1,1,Ward Ltd
+1578,1,-1,0,1,1,1,Frazier-Walton
+1581,1,-1,0,1,1,1,"Bridges, Elliott and Schultz"
+1584,1,-1,0,1,1,1,Hamilton-Vaughn
+1587,1,-1,0,1,1,1,"Mason, Stein and Weiss"
+1590,1,-1,0,1,1,1,"Miller, Kelley and Hill"
+1593,1,-1,0,1,1,1,Wright Inc
+1596,1,-1,0,1,1,1,Smith-Smith
+1599,1,-1,0,1,1,1,"Harrington, Edwards and Dunlap"
+1602,1,-1,0,1,1,1,Robinson and Sons
+1605,1,-1,0,1,1,1,Jordan Ltd
+1608,1,-1,0,1,1,1,"Townsend, White and Callahan"
+1611,1,-1,0,1,1,1,Nguyen PLC
+1614,1,-1,0,1,1,1,"Peterson, Durham and Miller"
+1617,1,-1,0,1,1,1,Walker PLC
+1620,1,-1,0,1,1,1,Jones Inc
+1623,1,-1,0,1,1,1,"Hernandez, Carter and Lopez"
+1626,1,-1,0,1,1,1,"Sanchez, Barnes and Stewart"
+1629,1,-1,0,1,1,1,Moses PLC
+1632,1,-1,0,1,1,1,"Williams, Harris and Freeman"
+1635,1,-1,0,1,1,1,"Lester, Washington and Barajas"
+1638,1,-1,0,1,1,1,Gallagher LLC
+1641,1,-1,0,1,1,1,Hamilton Ltd
+1644,1,-1,0,1,1,1,Estrada Inc
+1647,1,-1,0,1,1,1,Bennett and Sons
+1650,1,-1,0,1,1,1,Simpson-Stevens
+1653,1,-1,0,1,1,1,Gonzalez-Armstrong
+1656,1,-1,0,1,1,1,Figueroa-Lee
+1659,1,-1,0,1,1,1,"Strickland, Williams and Carroll"
+1662,1,-1,0,1,1,1,Roberts-Powers
+1665,1,-1,0,1,1,1,Anderson Ltd
+1668,1,-1,0,1,1,1,Sanchez-Cruz
+1671,1,-1,0,1,1,1,"Jones, Brown and Williams"
+1674,1,-1,0,1,1,1,"Allison, Baldwin and Lee"
+1677,1,-1,0,1,1,1,Reynolds Inc
+1680,1,-1,0,1,1,1,Martin Group
+1683,1,-1,0,1,1,1,Jennings LLC
+1686,1,-1,0,1,1,1,"Alvarez, Patterson and Kirk"
+1689,1,-1,0,1,1,1,"Good, Crawford and Black"
+1692,1,-1,0,1,1,1,"Lopez, Brown and Conner"
+1695,1,-1,0,1,1,1,"Downs, Garcia and Oneill"
+1698,1,-1,0,1,1,1,Nguyen-Sanchez
+1701,1,-1,0,1,1,1,"Howell, Summers and Miller"
+1704,1,-1,0,1,1,1,Crosby LLC
+1707,1,-1,0,1,1,1,Ramsey-Turner
+1710,1,-1,0,1,1,1,Morse LLC
+1713,1,-1,0,1,1,1,Johnson and Sons
+1716,1,-1,0,1,1,1,"Vazquez, Mccoy and Hicks"
+1719,1,-1,0,1,1,1,Fletcher PLC
+1722,1,-1,0,1,1,1,Pratt-Hickman
+1725,1,-1,0,1,1,1,Castillo Ltd
+1728,1,-1,0,1,1,1,"Navarro, Stewart and Davis"
+1731,1,-1,0,1,1,1,Evans and Sons
+1734,1,-1,0,1,1,1,Stevens and Sons
+1737,1,-1,0,1,1,1,"Gray, Holden and Edwards"
+1740,1,-1,0,1,1,1,Casey Group
+1743,1,-1,1,1,1,1,"Carpenter, Sanchez and King"
+1746,1,-1,0,1,1,1,Gutierrez-Perry
+1749,1,-1,0,1,1,1,Stewart LLC
+1752,1,-1,0,1,1,1,Collins Group
+1755,1,-1,0,1,1,1,Nelson and Sons
+1758,1,-1,0,1,1,1,Villa and Sons
+1761,1,-1,0,1,1,1,"Jackson, Rowe and Daniels"
+1764,1,-1,0,1,1,1,Moore Group
+1767,1,-1,0,1,1,1,Smith LLC
+1770,1,-1,0,1,1,1,Hawkins-Wise
+1773,1,-1,0,1,1,1,"Clark, Alexander and Mayo"
+1776,1,-1,0,1,1,1,Hendricks-Lynch
+1779,1,-1,0,1,1,1,King-Moore
+1782,1,-1,0,1,1,1,Harris-Willis
+1785,1,-1,0,1,1,1,"Phillips, Yoder and Paul"
+1788,1,-1,0,1,1,1,Curry-Velazquez
+1791,1,-1,0,1,1,1,Smith-Luna
+1794,1,-1,0,1,1,1,Howard PLC
+1797,1,-1,0,1,1,1,Cunningham Group
+1800,1,-1,0,1,1,1,Munoz-Lucas
+1803,1,-1,0,1,1,1,Morgan-Klein
+1806,1,-1,0,1,1,1,"Phelps, Lucas and Frazier"
+1809,1,-1,0,1,1,1,Walton-Lawson
+1812,1,-1,0,1,1,1,Gates-Lee
+1815,1,-1,0,1,1,1,Munoz-Carpenter
+1818,1,-1,0,1,1,1,Jensen PLC
+1821,1,-1,0,1,1,1,"Schmitt, Terry and Serrano"
+1824,1,-1,0,1,1,1,Martinez-Johnson
+1827,1,-1,0,1,1,1,Wilson-Williams
+1830,1,-1,0,1,1,1,"Gonzalez, Armstrong and Harris"
+1833,1,-1,0,1,1,1,"Hunt, Mclaughlin and Fowler"
+1836,1,-1,0,1,1,1,"Martinez, Cline and Yu"
+1839,1,-1,0,1,1,1,"Brooks, Boyd and Lawson"
+1842,1,-1,0,1,1,1,Morrison Group
+1845,1,-1,0,1,1,1,"Smith, Gallagher and Adams"
+1848,1,-1,0,1,1,1,Garcia PLC
+1851,1,-1,0,1,1,1,"Gray, Mitchell and Johnson"
+1854,1,-1,0,1,1,1,Moreno-Ruiz
+1857,1,-1,0,1,1,1,Horton-Casey
+1860,1,-1,0,1,1,1,"Jackson, Gonzales and Davis"
+1863,1,-1,0,1,1,1,Mosley-Stephens
+1866,1,-1,0,1,1,1,Roberts Ltd
+1869,1,-1,0,1,1,1,"Beltran, Roberts and Phillips"
+1872,1,-1,0,1,1,1,"Schultz, Fletcher and Brewer"
+1875,1,-1,0,1,1,1,Tran Group
+1878,1,-1,0,1,1,1,Wilcox-Nichols
+1881,1,-1,0,1,1,1,"Day, Delgado and Campbell"
+1884,1,-1,0,1,1,1,"Robinson, Black and Anderson"
+1887,1,-1,0,1,1,1,Newman-Turner
+1890,1,-1,0,1,1,1,"Wilson, Walker and Wong"
+1893,1,-1,0,1,1,1,Manning-Bryant
+1896,1,-1,0,1,1,1,Hughes Inc
+1899,1,-1,0,1,1,1,"Griffin, Cruz and Zhang"
+1902,1,-1,0,1,1,1,"Pugh, Jennings and Stein"
+1905,1,-1,0,1,1,1,"Brown, York and Walters"
+1908,1,-1,0,1,1,1,Johnson Ltd
+1911,1,-1,0,1,1,1,"Taylor, Cole and Washington"
+1914,1,-1,0,1,1,1,"Mitchell, Ellis and Newman"
+1917,1,-1,0,1,1,1,"Mclaughlin, Daniels and Guzman"
+1920,1,-1,0,1,1,1,Macdonald LLC
+1923,1,-1,0,1,1,1,Ramirez-Strickland
+1926,1,-1,0,1,1,1,"Myers, Carter and Mcgee"
+1929,1,-1,0,1,1,1,"Chase, Jackson and Garcia"
+1932,1,-1,0,1,1,1,"Dawson, Mosley and Gallegos"
+1935,1,-1,0,1,1,1,Harris Ltd
+1938,1,-1,0,1,1,1,Vasquez-Lynch
+1941,1,-1,0,1,1,1,Perez-Jackson
+1944,1,-1,0,1,1,1,Miller Ltd
+1947,1,-1,0,1,1,1,Montgomery PLC
+1950,1,-1,0,1,1,1,Dougherty-Warren
+1953,1,-1,0,1,1,1,"Patterson, Smith and Hunt"
+1956,1,-1,0,1,1,1,Nelson PLC
+1959,1,-1,0,1,1,1,Black-Stevens
+1962,1,-1,0,1,1,1,Brown and Sons
+1965,1,-1,0,1,1,1,"Baker, Sawyer and Murphy"
+1968,1,-1,0,1,1,1,Callahan PLC
+1971,1,-1,0,1,1,1,Daniels-Pearson
+1974,1,-1,0,1,1,1,Patterson-Perkins
+1977,1,-1,0,1,1,1,"Rose, Carney and Cook"
+1980,1,-1,0,1,1,1,Long and Sons
+1983,1,-1,0,1,1,1,"Brown, Carter and Jones"
+1986,1,-1,0,1,1,1,"Lee, Thompson and Reyes"
+1989,1,-1,0,1,1,1,Martinez-Adams
+1992,1,-1,0,1,1,1,"Cruz, Gross and Olsen"
+1995,1,-1,0,1,1,1,"Rodriguez, Ross and Owens"
+1998,1,-1,0,1,1,1,Bond LLC
+2001,1,-1,0,1,1,1,"Lopez, Stephenson and Crawford"
+2004,1,-1,0,1,1,1,"Andrews, Graham and Burke"
+2007,1,-1,0,1,1,1,Griffin Ltd
+2010,1,-1,0,1,1,1,Nelson-Miller
+2013,1,-1,0,1,1,1,Morris-Thomas
+2016,1,-1,0,1,1,1,"Hernandez, Rose and Long"
+2019,1,-1,0,1,1,1,Williams PLC
+2022,1,-1,0,1,1,1,Petty Ltd
+2025,1,-1,0,1,1,1,"Stewart, Mayo and Booth"
+2028,1,-1,0,1,1,1,Nelson Group
+2031,1,-1,0,1,1,1,Campbell Group
+2034,1,-1,0,1,1,1,"Mckay, Wells and White"
+2037,1,-1,0,1,1,1,Cox-Bonilla
+2040,1,-1,0,1,1,1,Garcia Ltd
+2043,1,-1,0,1,1,1,Kelley and Sons
+2046,1,-1,0,1,1,1,Clark-Walker
+2049,1,-1,0,1,1,1,"Sherman, Wall and Myers"
+2052,1,-1,0,1,1,1,"Taylor, Murray and Harding"
+2055,1,-1,0,1,1,1,Wilkins LLC
+2058,1,-1,0,1,1,1,"Kline, Drake and Hamilton"
+2061,1,-1,0,1,1,1,"Kelly, Coleman and Young"
+2064,1,-1,0,1,1,1,Robinson-Carter
+2067,1,-1,0,1,1,1,"Brown, Boyd and Gomez"
+2070,1,-1,0,1,1,1,"Yang, Ray and Garcia"
+2073,1,-1,0,1,1,1,Steele-Lynch
+2076,1,-1,0,1,1,1,"Kramer, Davidson and Melendez"
+2079,1,-1,0,1,1,1,Smith and Sons
+2082,1,-1,0,1,1,1,"Robinson, Wolfe and Brown"
+2085,1,-1,0,1,1,1,Hardin LLC
+2088,1,-1,0,1,1,1,Carlson Group
+2091,1,-1,0,1,1,1,"Jackson, Carter and Lane"
+2094,1,-1,0,1,1,1,Cooley-Johnson
+2097,1,-1,0,1,1,1,Martin-Miller
+2100,1,-1,0,1,1,1,Andrews-Ramirez
+2103,1,-1,0,1,1,1,"Robertson, Contreras and Collins"
+2106,1,-1,0,1,1,1,Hernandez-Chavez
+2107,1,-1,0,1,1,1,"Barker, Wright and Freeman"
+2108,1,-1,0,1,1,1,White-Christensen
+2109,1,-1,0,1,1,1,Bryant-Schmidt
+2110,1,-1,0,1,1,1,Hughes-Smith
+2111,1,-1,0,1,1,1,"Stephenson, Sanders and Lynch"
+2112,1,-1,0,1,1,1,Brown LLC
+2113,1,-1,0,1,1,1,Moore LLC
+2114,1,-1,0,1,1,1,Lee and Sons
+2115,1,-1,0,1,1,1,"Oliver, Nelson and Reed"
+2116,1,-1,0,1,1,1,Long-Anderson
+2117,1,-1,0,1,1,1,Joseph-Moore
+2118,1,-1,0,1,1,1,Lee-Gomez
+2119,1,-1,0,1,1,1,"George, Mercado and Wells"
+2120,1,-1,0,1,1,1,Hill PLC
+2121,1,-1,0,1,1,1,"Anderson, King and Moore"
+2122,1,-1,0,1,1,1,Garrett Group
+2123,1,-1,0,1,1,1,Mosley Group
+2124,1,-1,0,1,1,1,"Kennedy, Dorsey and Willis"
+2127,1,-1,0,1,1,1,"Stone, Taylor and Reed"
+2132,1,-1,0,1,1,1,"Rodriguez, Chambers and Salazar"
+2137,1,-1,0,1,1,1,"Miller, Young and White"
+2142,1,-1,0,1,1,1,Bailey-Russell
+2147,1,-1,0,1,1,1,"Larson, Luna and Rodriguez"
+2152,1,-1,0,1,1,1,Weaver Inc
+2157,1,-1,0,1,1,1,Jacobs-Smith
+2162,1,-1,0,1,1,1,Huber-Howard
+2167,1,-1,0,1,1,1,Henry Ltd
+2172,1,-1,0,1,1,1,Mcmillan-Cooper
+2177,1,-1,0,1,1,1,Edwards Group
+2182,1,-1,0,1,1,1,"Williams, Adams and Ford"
+2187,1,-1,0,1,1,1,Sanders Ltd
+2192,1,-1,0,1,1,1,"English, Cook and Stevens"
+2197,1,-1,0,1,1,1,Fischer-Robbins
+2202,1,-1,0,1,1,1,Lopez-Glenn
+2207,1,-1,0,1,1,1,Sutton-King
+2212,1,-1,0,1,1,1,Parker-Daniels
+2217,1,-1,0,1,1,1,Robertson-Yu
+2222,1,-1,0,1,1,1,Cunningham-Marshall
+2227,1,-1,0,1,1,1,Doyle-Scott
+2232,1,-1,0,1,1,1,Jensen Group
+2237,1,-1,0,1,1,1,Williams-Watkins
+2242,1,-1,0,1,1,1,"Kim, Coffey and Mcgee"
+2247,1,-1,0,1,1,1,Lambert and Sons
+2252,1,-1,0,1,1,1,Lang-Tucker
+2257,1,-1,0,1,1,1,Gregory-Jones
+2262,1,-1,0,1,1,1,Guerrero Inc
+2267,1,-1,0,1,1,1,Briggs Inc
+2272,1,-1,0,1,1,1,Gibson Inc
+2277,1,-1,0,1,1,1,Cruz Ltd
+2282,1,-1,0,1,1,1,"Scott, Proctor and Berry"
+2287,1,-1,0,1,1,1,Barber LLC
+2292,1,-1,0,1,1,1,"Miller, Hernandez and Turner"
+2297,1,-1,0,1,1,1,"Lee, Mack and Perez"
+2302,1,-1,0,1,1,1,Ramos-Floyd
+2307,1,-1,0,1,1,1,Anderson-Vance
+2312,1,-1,0,1,1,1,Miller PLC
+2317,1,-1,0,1,1,1,Zamora and Sons
+2322,1,-1,0,1,1,1,Stevens Inc
+2327,1,-1,0,1,1,1,Castillo-Phillips
+2332,1,-1,0,1,1,1,Johnson-Nelson
+2337,1,-1,0,1,1,1,Davis-Ruiz
+2342,1,-1,0,1,1,1,Elliott-Scott
+2347,1,-1,0,1,1,1,Atkinson-Moore
+2352,1,-1,0,1,1,1,"Johnson, Thompson and Thompson"
+2357,1,-1,0,1,1,1,Sullivan LLC
+2362,1,-1,0,1,1,1,Smith-Underwood
+2367,1,-1,0,1,1,1,Holland and Sons
+2372,1,-1,0,1,1,1,Graves PLC
+2377,1,-1,0,1,1,1,Parker-Smith
+2382,1,-1,0,1,1,1,Vazquez Group
+2387,1,-1,0,1,1,1,Moore-Roberts
+2392,1,-1,0,1,1,1,"Snyder, Nelson and Bennett"
+2397,1,-1,0,1,1,1,"Ford, Cooper and Simmons"
+2402,1,-1,0,1,1,1,Rogers LLC
+2407,1,-1,0,1,1,1,Downs LLC
+2412,1,-1,0,1,1,1,Walker Group
+2417,1,-1,0,1,1,1,Williams LLC
+2422,1,-1,0,1,1,1,Goodman and Sons
+2427,1,-1,0,1,1,1,Lewis-Thomas
+2432,1,-1,0,1,1,1,"Reed, Wright and Hood"
+2437,1,-1,0,1,1,1,Smith Ltd
+2442,1,-1,0,1,1,1,"Warren, Rios and Flores"
+2447,1,-1,1,0,0,0,Larson LLC
+2452,1,-1,0,0,0,0,Rivera PLC
+2457,1,-1,0,1,1,1,Johnson Group
+2462,1,-1,0,1,1,1,"Conway, Delgado and Freeman"
+2467,1,-1,0,0,0,0,"Carey, Ramirez and Thomas"
+2472,1,-1,0,0,0,1,Campbell and Sons
+2477,1,-1,0,1,1,1,Rice-Price
+2482,1,-1,0,1,1,1,Hudson Inc
+2487,1,-1,0,1,1,1,Dominguez-Cline
+2492,1,-1,0,1,1,1,Booth LLC
+2497,1,-1,0,1,1,1,"Hernandez, Castillo and Jennings"
+2502,1,-1,0,1,1,1,"Washington, Dixon and Day"
+2507,1,-1,0,1,1,1,Wall and Sons
+2512,1,-1,0,1,1,1,"Smith, Mccall and Robinson"
+2517,1,-1,0,1,1,1,Petty LLC
+2522,1,-1,0,1,1,1,"Lee, Barrett and Williams"
+2527,1,-1,0,1,1,1,Ruiz-Flores
+2532,1,-1,0,1,1,1,Nicholson-Smith
+2537,1,-1,0,1,1,1,"Robles, Rogers and Brady"
+2542,1,-1,0,1,1,1,Watson PLC
+2547,1,-1,0,1,1,1,"Bates, Hudson and Miller"
+2552,1,-1,0,1,1,1,"Hall, Wong and Padilla"
+2557,1,-1,0,1,1,1,"Craig, Christensen and Spencer"
+2562,1,-1,0,1,1,1,Hernandez and Sons
+2564,1,-1,0,1,1,1,"Reilly, Gardner and Perry"
+2569,1,-1,0,1,1,1,Murray Group
+2574,1,-1,0,1,1,1,Newton-Baker
+2579,1,-1,0,1,1,1,Barrett PLC
+2584,1,-1,0,1,1,1,Ferrell PLC
+2589,1,-1,0,1,1,1,"Ferguson, Browning and Wilson"
+2594,1,-1,0,1,1,1,Joseph-Ruiz
+2599,1,-1,0,1,1,1,Tran-Rodriguez
+2604,1,-1,0,1,1,1,"Ho, Kelly and Long"
+2609,1,-1,0,1,1,1,Henderson Inc
+2611,1,-1,0,1,1,1,Wilson PLC
+2616,1,-1,0,1,1,1,"Barrett, Ingram and Ponce"
+2621,1,-1,0,1,1,1,Jones-Ramos
+2626,1,-1,0,1,1,1,Weaver-Martinez
+2631,1,-1,0,1,1,1,Franco-Horne
+2636,1,-1,0,1,1,1,"Novak, Ellison and Chapman"
+2641,1,-1,0,1,1,1,"Morales, Perry and Bradley"
+2646,1,-1,0,1,1,1,"Benson, Moore and Murphy"
+2651,1,-1,0,1,1,1,Reynolds-Crane
+2656,1,-1,0,1,1,1,Johnson and Sons
+2661,1,-1,0,1,1,1,Munoz-Ramos
+2666,1,-1,0,1,1,1,"Ryan, Carr and Vega"
+2671,1,-1,0,1,1,1,Powell Ltd
+2676,1,-1,0,1,1,1,Hamilton Inc
+2677,1,-1,0,1,1,1,Russell-Clark
+2682,1,-1,0,1,1,1,"Barnett, Anderson and Rogers"
+2687,1,-1,0,1,1,1,"Walker, Thompson and Ayala"
+2692,1,-1,0,1,1,1,Johnson and Sons
+2697,1,-1,0,1,1,1,Archer-Ayala
+2702,1,-1,0,1,1,1,Edwards Group
+2707,1,-1,0,1,1,1,Hall PLC
+2712,1,-1,0,1,1,1,Dunn-Henderson
+2717,1,-1,0,1,1,1,Jenkins LLC
+2722,1,-1,0,1,1,1,Harrington and Sons
+2727,1,-1,0,1,1,1,"Sanchez, Wells and Jones"
+2728,1,-1,0,1,1,1,Wilson and Sons
+2733,1,-1,0,1,1,1,"Spencer, Nichols and Wright"
+2738,1,-1,0,1,1,1,Ward PLC
+2743,1,-1,0,1,1,1,Jones-Mullen
+2748,1,-1,0,1,1,1,Campbell-Powell
+2753,1,-1,0,1,1,1,"Walter, Martin and House"
+2758,1,-1,0,1,1,1,Davidson Ltd
+2763,1,-1,0,1,1,1,"Newton, Vance and Roberts"
+2768,1,-1,0,1,1,1,"Walker, Wong and Burgess"
+2773,1,-1,0,1,1,1,"Dean, Young and Cruz"
+2778,1,-1,0,1,1,1,Freeman-Gonzalez
+2781,1,-1,0,1,1,1,"Mosley, Austin and Kirk"
+2786,1,-1,0,1,1,1,"Contreras, Potter and Jones"
+2791,1,-1,0,1,1,1,"Lynn, Smith and Adams"
+2796,1,-1,0,1,1,1,"Morgan, Good and Sanford"
+2798,1,-1,0,1,1,1,Foley Group
+2803,1,-1,0,1,1,1,Holmes-Bradshaw
+2808,1,-1,0,1,1,1,Sullivan and Sons
+2813,1,-1,0,1,1,1,Beltran LLC
+2818,1,-1,0,1,1,1,"Barnett, Blake and Gray"
+2823,1,-1,0,1,1,1,Yu-Merritt
+2828,1,-1,0,1,1,1,"West, Barnes and Johnson"
+2833,1,-1,0,1,1,1,Johnson-Andrade
+2837,1,-1,0,1,1,1,"Barr, Lewis and Lewis"
+2842,1,-1,0,1,1,1,Pena PLC
+2847,1,-1,0,1,1,1,Burns-Bailey
+2852,1,-1,0,1,1,1,Santos-Davies
+2857,1,-1,0,1,1,1,Tate and Sons
+2862,1,-1,0,1,1,1,"Hawkins, Hall and Hanna"
+2867,1,-1,0,1,1,1,Russo LLC
+2872,1,-1,0,1,1,1,Reed-Bennett
+2877,1,-1,0,1,1,1,Li Inc
+2882,1,-1,0,1,1,1,Powers Group
+2887,1,-1,0,1,1,1,Leach LLC
+2891,1,-1,0,1,1,1,Thomas and Sons
+2896,1,-1,0,1,1,1,Ritter and Sons
+2901,1,-1,0,1,1,1,Edwards and Sons
+2906,1,-1,0,1,1,1,Mckinney-Martin
+2911,1,-1,0,1,1,1,Smith-Adams
+2916,1,-1,0,1,1,1,Palmer-Gray
+2921,1,-1,0,1,1,1,"Romero, Donaldson and Boone"
+2926,1,-1,0,1,1,1,Bennett-Young
+2931,1,-1,0,1,1,1,Riley-Robinson
+2936,1,-1,0,1,1,1,"Russell, Martin and Campbell"
+2941,1,-1,0,1,1,1,Powell and Sons
+2946,1,-1,0,1,1,1,Miller Inc
+2951,1,-1,0,1,1,1,Smith LLC
+2956,1,-1,0,1,1,1,"Daniels, Pittman and Johnson"
+2961,1,-1,0,1,1,1,"Smith, Parker and Hill"
+2966,1,-1,0,1,1,1,"Jackson, Garcia and Nguyen"
+2971,1,-1,0,1,1,1,Meyers Ltd
+2976,1,-1,0,1,1,1,Pope Ltd
+2981,1,-1,0,1,1,1,Ware-Adams
+2986,1,-1,0,1,1,1,Riley and Sons
+2991,1,-1,0,1,1,1,"Fowler, Kirk and Wallace"
+2996,1,-1,0,1,1,1,Freeman-Perez
+3001,1,-1,0,1,1,1,Harris Ltd
+3006,1,-1,1,1,1,1,Brooks Inc
+3011,1,-1,0,1,1,1,"Miller, Smith and Noble"
+3016,1,-1,0,1,1,1,Cooper LLC
+3021,1,-1,0,1,1,1,Robles Group
+3026,1,-1,0,1,1,1,Berry-Jensen
+3031,1,-1,0,1,1,1,"White, Christian and Hoffman"
+3036,1,-1,0,1,1,1,Santos and Sons
+3041,1,-1,0,1,1,1,"Mitchell, Davis and Vaughn"
+3046,1,-1,0,1,1,1,"Dominguez, Bowman and Buck"
+3051,1,-1,0,1,1,1,Martinez LLC
+3056,1,-1,0,1,1,1,Mason-Davis
+3061,1,-1,0,1,1,1,Ray Inc
+3066,1,-1,0,1,1,1,Soto-Wallace
+3067,1,-1,0,1,1,1,Ward Ltd
+3072,1,-1,0,1,1,1,"Morales, King and Reed"
+3077,1,-1,0,1,1,1,"Diaz, Wright and Hale"
+3082,1,-1,0,1,1,1,Arias-Walters
+3087,1,-1,0,1,1,1,Garrison Group
+3092,1,-1,0,1,1,1,"Parker, Santana and Sanchez"
+3097,1,-1,0,1,1,1,"Hall, Vasquez and Farley"
+3102,1,-1,0,1,1,1,"Johnson, Arroyo and Reed"
+3107,1,-1,0,1,1,1,"Lee, Morris and Alvarez"
+3112,1,-1,0,1,1,1,"Glover, Williams and Herrera"
+3117,1,-1,0,1,1,1,Hunter-Rogers
+3122,1,-1,0,1,1,1,Hill-Mason
+3127,1,-1,0,1,1,1,Thomas Ltd
+3132,1,-1,0,1,1,1,Robbins-Mckenzie
+3137,1,-1,0,1,1,1,Gray-Faulkner
+3142,1,-1,0,1,1,1,"Henry, Ross and Barrera"
+3147,1,-1,0,1,1,1,Bradford-Hamilton
+3152,1,-1,0,1,1,1,Cross-Daniel
+3157,1,-1,0,1,1,1,Cooke Ltd
+3162,1,-1,0,1,1,1,Davies Inc
+3167,1,-1,0,1,1,1,"Hunt, Tucker and Townsend"
+3172,1,-1,0,1,1,1,"Ellis, Kennedy and Guerra"
+3177,1,-1,0,1,1,1,Kennedy-Hunt
+3182,1,-1,0,1,1,1,Kelly-Anderson
+3187,1,-1,0,1,1,1,Wheeler-Bailey
+3192,1,-1,0,1,1,1,"Smith, Williams and Welch"
+3197,1,-1,0,1,1,1,"Osborne, Miller and Davis"
+3202,1,-1,0,1,1,1,Moore and Sons
+3207,1,-1,0,1,1,1,Riley LLC
+3212,1,-1,0,1,1,1,Johnson and Sons
+3217,1,-1,0,1,1,1,"Mccarthy, Ward and Scott"
+3222,1,-1,0,1,1,1,Willis PLC
+3227,1,-1,0,1,1,1,"Dawson, Compton and Benton"
+3232,1,-1,0,1,1,1,Stone PLC
