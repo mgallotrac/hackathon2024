@@ -32,7 +32,7 @@ Utilise computer vision technology to extract meaningful insights from image dat
 
 ### API Integrations
 
-**Prize pool:** $2000 cash
+**Prize pool:** $2000 cash + [Baseline traineeship](https://baselinejs.com/)
 
 Combine a variety of existing public API functionality to generate new and meaningful utility greater than the sum of the parts.
 
@@ -44,7 +44,7 @@ Leverage elements of game principles and design in non-game contexts to encourag
 
 ### iAccelerate Business Plan
 
-**Prize pool:** $1000 cash
+**Prize pool:** $1000 cash + [iAccelerate Scholarships](https://www.iaccelerate.com.au/scholarships/) + [Free online programs from HEX](https://www.startwithhex.com/)
 
 Create a business plan outlining a vision for a company which can tackle a specific societal problem by submission time day 2.
 
