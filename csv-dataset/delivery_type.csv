@@ -1,24 +1,24 @@
-"id","deliveryTypeName","deleted"
-"1","Illawarra South","0"
-"2","Illawarra Loop","0"
-"3","Highlands","0"
-"4","Sydney East","0"
-"5","Sydney West","0"
-"6","South Coast","0"
-"7","Canberra East","0"
-"8","RSS","0"
-"9","Sydney North","0"
-"10","ACT Recycling","0"
-"12","Riverview Project Custom","0"
-"15","Goulburn and Surrounds","0"
-"18","Queensland","0"
-"23","Canberra South","0"
-"28","Canberra North","0"
-"33","Canberra North West","0"
-"38","Canberra West","0"
-"42","Illawarra Central","0"
-"47","Newcastle & Hunter Region","0"
-"52","Canberra Central","0"
-"53","RSS Stock","0"
-"58","Building Supplies","0"
-"63","RSS002 Freight","0"
+id,deliveryTypeName,deleted
+1,Illawarra South,0
+2,Illawarra Loop,0
+3,Highlands,0
+4,Sydney East,0
+5,Sydney West,0
+6,South Coast,0
+7,Canberra East,0
+8,RSS,0
+9,Sydney North,0
+10,ACT Recycling,0
+12,Riverview Project Custom,0
+15,Goulburn and Surrounds,0
+18,Queensland,0
+23,Canberra South,0
+28,Canberra North,0
+33,Canberra North West,0
+38,Canberra West,0
+42,Illawarra Central,0
+47,Newcastle & Hunter Region,0
+52,Canberra Central,0
+53,RSS Stock,0
+58,Building Supplies,0
+63,RSS002 Freight,0
