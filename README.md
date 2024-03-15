@@ -16,6 +16,28 @@ This repository contains several useful things for getting your hackathon projec
 
 Participants are encouraged to utilize these resource for experimentation and the development of their projects.
 
+## Hackathon Themed Tracks
+
+### AI & Data
+
+Leverage the power of AI to enable non-technical users to extract value from operational datasets.
+
+### Computer Vision
+
+Utilise computer vision technology to extract meaningful insights from image data, enabling rapid analysis and interpretation for enhanced decision-making and situational awareness across various applications and industries.
+
+### API Integrations
+
+Combine a variety of existing public API functionality to generate new and meaningful utility greater than the sum of the parts.
+
+### Gamification
+
+Leverage elements of game principles and design in non-game contexts to encourage the desired behaviour or outcome and rewarding those behaviours
+
+### iAccelerate Business Plan
+
+Create a business plan outlining a vision for a company which can tackle a specific societal problem by submission time day 2.
+
 ### Some context on Allotrac
 
 Allotrac is a cloud-based transport management software designed for the logistics and transportation industry. It offers a range of features to streamline operations, enhance visibility, and optimize efficiency in managing fleets, drivers, jobs, and compliance requirements. Some of the key features typically associated with Allotrac include:
