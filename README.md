@@ -20,21 +20,31 @@ Participants are encouraged to utilize these resource for experimentation and th
 
 ### AI & Data
 
+**Prize pool:** $3000 cash
+
 Leverage the power of AI to enable non-technical users to extract value from operational datasets.
 
 ### Computer Vision
+
+**Prize pool:** $2000 cash
 
 Utilise computer vision technology to extract meaningful insights from image data, enabling rapid analysis and interpretation for enhanced decision-making and situational awareness across various applications and industries.
 
 ### API Integrations
 
+**Prize pool:** $2000 cash
+
 Combine a variety of existing public API functionality to generate new and meaningful utility greater than the sum of the parts.
 
 ### Gamification
 
+**Prize pool:** $2000 cash
+
 Leverage elements of game principles and design in non-game contexts to encourage the desired behaviour or outcome and rewarding those behaviours
 
 ### iAccelerate Business Plan
+
+**Prize pool:** $1000 cash
 
 Create a business plan outlining a vision for a company which can tackle a specific societal problem by submission time day 2.
 
