@@ -35,6 +35,16 @@ The dataset is structured into several CSV files, organized within the `csv-data
 
 Feel free to explore and analyze these files to gain insights into Allotrac's business operations.
 
+## Usage
+
+To get started, clone or download this repository to your local machine:
+
+`git clone https://github.com/mgallotrac/hackathon2024`
+
+Once you have the dataset locally, you can begin exploring the files and incorporating them into your project. Remember to adhere to the licensing terms outlined in the LICENSE.md file.
+
+Happy hacking!
+
 ## POD Image Repository
 
 The Proof of delivery images are also available as an image dataset. The entire dataset [can be downloaded here](https://allotrac-hackathon-datasets.s3.amazonaws.com/pop-pod-images.zip?AWSAccessKeyId=AKIASY2WFKX7SLJMMEFY&Signature=In23Mmz%2FZ0qU%2FedkTZWa2HQyCJw%3D&Expires=1710677728), however it's 26GB so be careful.
@@ -53,16 +63,6 @@ The filepath key is `1701303743_881056_image_img_proof_881056_0.jpg`
 
 Hence the image can be accessed at [http://allotrac-hackathon-datasets.s3-website-ap-southeast-2.amazonaws.com/images/1701303743_881056_image_img_proof_881056_0.jpg](http://allotrac-hackathon-datasets.s3-website-ap-southeast-2.amazonaws.com/images/1701303743_881056_image_img_proof_881056_0.jpg)
 
-## External Data Repositories
+# External Data Repositories
 
 In addition to the provided dataset, participants are encouraged to leverage external data repositories such as [Kaggle](https://www.kaggle.com) and [AWS Data Exchange](https://aws.amazon.com/data-exchange/) to enhance their projects. External data can complement the provided dataset and enrich the solutions developed during the hackathon.
-
-## Usage
-
-To get started, clone or download this repository to your local machine:
-
-`git clone https://github.com/mgallotrac/hackathon2024`
-
-Once you have the dataset locally, you can begin exploring the files and incorporating them into your project. Remember to adhere to the licensing terms outlined in the LICENSE.md file.
-
-Happy hacking!
